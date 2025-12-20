@@ -1,0 +1,1150 @@
+{
+    "2024": {
+        "52": [
+            {
+                "title": "WebPerf Advent Calendar 2024 is a wrap",
+                "url": "https://calendar.perfplanet.com/2024/",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Problems I no longer have by using SSR",
+                "url": "https://www.wimdeblauwe.com/blog/2024/12/31/problems-i-no-longer-have-by-using-server-side-rendering/",
+                "domain": "wimdeblauwe"
+            },
+            {
+                "title": "2024 Web Almanac: Page Weight",
+                "url": "https://almanac.httparchive.org/en/2024/page-weight",
+                "domain": "httparchive"
+            },
+            {
+                "title": "2024 Web Almanac: Media",
+                "url": "https://almanac.httparchive.org/en/2024/media",
+                "domain": "httparchive"
+            }
+        ]
+    },
+    "2025": {
+        "01": [
+            {
+                "title": "WebPerf Advent Calendar 2024 is a wrap",
+                "url": "https://calendar.perfplanet.com/2024/",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Problems I no longer have by using SSR",
+                "url": "https://www.wimdeblauwe.com/blog/2024/12/31/problems-i-no-longer-have-by-using-server-side-rendering/",
+                "domain": "wimdeblauwe"
+            },
+            {
+                "title": "2024 Web Almanac: Page Weight",
+                "url": "https://almanac.httparchive.org/en/2024/page-weight",
+                "domain": "httparchive"
+            },
+            {
+                "title": "2024 Web Almanac: Media",
+                "url": "https://almanac.httparchive.org/en/2024/media",
+                "domain": "httparchive"
+            }
+        ],
+        "02": [
+            {
+                "title": "How to Use Baseline Data",
+                "url": "https://12daysofweb.dev/2024/how-to-use-baseline-data/",
+                "domain": "12daysofweb"
+            },
+            {
+                "title": "Breaking Up with Long Tasks",
+                "url": "https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Web Vitals, World Wide.",
+                "url": "https://tamethebots.com/blog-n-bits/web-vitals-world-wide",
+                "domain": "tamethebots"
+            },
+            {
+                "title": "Why Field TTFB Worse Than LH Lab Data",
+                "url": "https://www.debugbear.com/blog/ttfb-lab-vs-field",
+                "domain": "debugbear"
+            }
+        ],
+        "03": [
+            {
+                "title": "A virtual meetup for WebPerf community",
+                "url": "https://performanceobserver.dev/",
+                "domain": "performanceobserver"
+            },
+            {
+                "title": "2025 WebPerf Trends",
+                "url": "https://uxify.com/blog/post/web-performance-trends-2025",
+                "domain": "uxify"
+            },
+            {
+                "title": "Inside modern web browser",
+                "url": "https://developer.chrome.com/blog/inside-browser-part1",
+                "domain": "chrome"
+            },
+            {
+                "title": "Start Your Escape from WordPress",
+                "url": "https://www.youtube.com/watch?v=WuH5QYCdh6w",
+                "domain": "youtube"
+            }
+        ],
+        "04": [
+            {
+                "title": "How QuintoAndar reduced INP by 80%",
+                "url": "https://web.dev/case-studies/quintoandar-inp",
+                "domain": "web"
+            },
+            {
+                "title": "How to Optimize Website Performance",
+                "url": "https://www.catchpoint.com/web-performance-monitoring/how-to-optimize-website-performance",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Why Browsers Produce Different Performance Results",
+                "url": "https://www.smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
+                "domain": "smashingmagazine"
+            },
+            {
+                "title": "Interactive web-based viewer for perf profiles.",
+                "url": "https://www.speedscope.app/",
+                "domain": "speedscope"
+            }
+        ],
+        "05": [
+            {
+                "title": "How Ray-Ban doubled conversion rate",
+                "url": "https://web.dev/case-studies/rayban-speculation-rules?hl=en",
+                "domain": "web"
+            },
+            {
+                "title": "Celebrating Two Years of the RUM Archive!",
+                "url": "https://rumarchive.com/blog/2025-01-28-daily-uploads-and-two-year-review/",
+                "domain": "rumarchive"
+            },
+            {
+                "title": "Rendering tab overview",
+                "url": "https://developer.chrome.com/docs/devtools/rendering",
+                "domain": "chrome"
+            },
+            {
+                "title": "Compress and convert your images",
+                "url": "https://squish.addy.ie/",
+                "domain": "addy"
+            }
+        ],
+        "06": [
+            {
+                "title": "Introducing WebPageTest Expert Plan",
+                "url": "https://www.catchpoint.com/blog/introducing-webpagetest-expert-plan-real-time-insights-synthetic-rum-together-in-one-platform",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Build for the Web...",
+                "url": "https://csswizardry.com/2025/01/build-for-the-web-build-on-the-web-build-with-the-web/",
+                "domain": "csswizardry"
+            },
+            {
+                "title": "Which local fonts can I use?",
+                "url": "https://highperformancewebfonts.com/read/which-local-fonts-can-I-use",
+                "domain": "highperformancewebfonts"
+            },
+            {
+                "title": "Baseline Status in a WordPress Block",
+                "url": "https://css-tricks.com/baseline-status-in-a-wordpress-block/",
+                "domain": "css-tricks"
+            }
+        ],
+        "07": [
+            {
+                "title": "React Performance",
+                "url": "https://www.behrouz.nl/article/react-performance-finding-and-fixing-the-bottlenecks",
+                "domain": "behrouz"
+            },
+            {
+                "title": "LCP subparts and RTT now in CrUX",
+                "url": "https://developer.chrome.com/blog/crux-2025-02",
+                "domain": "chrome"
+            },
+            {
+                "title": "Making Baseline actionable with real user data",
+                "url": "https://web.dev/case-studies/rumvision",
+                "domain": "web"
+            },
+            {
+                "title": "Is your website running slow? 🐌",
+                "url": "https://developer.mozilla.org/en-US/curriculum/extensions/performance/",
+                "domain": "mozilla"
+            }
+        ],
+        "08": [
+            {
+                "title": "Fast and furious",
+                "url": "https://www.catchpoint.com/blog/fast-and-furious-the-importance-of-performance-in-the-digital-age",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "How browsers REALLY load Web pages",
+                "url": "https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/",
+                "domain": "fosdem"
+            },
+            {
+                "title": "Client-Side Rendering",
+                "url": "https://www.developerway.com/posts/client-side-rendering-flame-graph",
+                "domain": "developerway"
+            },
+            {
+                "title": "More Edge features get a perf boost",
+                "url": "https://blogs.windows.com/msedgedev/2025/02/18/more-edge-features-get-a-performance-boost/",
+                "domain": "windows"
+            }
+        ],
+        "09": [
+            {
+                "title": "State of DevOps: 2024",
+                "url": "https://www.catchpoint.com/webinar/state-of-devops-2024-dora-report-insights-with-google",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Inside WordPress Performance & AI",
+                "url": "https://remkusdevries.com/podcast/inside-wordpress-performance-ai-with-felix-arntz-improving-site-speed-and-future-trends/",
+                "domain": "remkusdevries"
+            },
+            {
+                "title": "How I built Shopify Theme Vitals",
+                "url": "https://sia.codes/posts/how-i-built-theme-vitals/",
+                "domain": "sia"
+            },
+            {
+                "title": "Clean Architecture in Next.js",
+                "url": "https://www.youtube.com/watch?v=jJVAla0dWJo",
+                "domain": "youtube"
+            }
+        ],
+        "10": [
+            {
+                "title": "Webinar: Web Optimization for 2025",
+                "url": "https://www.catchpoint.com/webinar/web-optimization-for-2025-tools-methods-to-boost-performance",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Fast, Responsive, Stable in 2025",
+                "url": "https://www.antonybelov.ru/en/it/web-performance-2025",
+                "domain": "antonybelov"
+            },
+            {
+                "title": "Speculative Loading in WP 6.8",
+                "url": "https://make.wordpress.org/core/2025/03/06/speculative-loading-in-6-8/",
+                "domain": "wordpress"
+            },
+            {
+                "title": "Use scheduler yield to break up long tasks",
+                "url": "https://developer.chrome.com/blog/use-scheduler-yield",
+                "domain": "chrome"
+            }
+        ],
+        "11": [
+            {
+                "title": "Guide to implementing speculation rules",
+                "url": "https://developer.chrome.com/docs/web-platform/implementing-speculation-rules",
+                "domain": "chrome"
+            },
+            {
+                "title": "Deprecating the unload event",
+                "url": "https://developer.chrome.com/docs/web-platform/deprecating-unload",
+                "domain": "chrome"
+            },
+            {
+                "title": "Goodbye Wordpress, hello Astro!",
+                "url": "https://trib.tv/posts/2025/wordpress-to-astro/",
+                "domain": "trib"
+            },
+            {
+                "title": "Faster Rendering content-visibility CSS",
+                "url": "https://www.debugbear.com/blog/content-visibility-api",
+                "domain": "debugbear"
+            }
+        ],
+        "12": [
+            {
+                "title": "New tools for a better UX",
+                "url": "https://www.catchpoint.com/blog/catch-frustration-before-it-costs-you-new-tools-for-a-better-user-experience",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Bloomberg Backs Open Web Docs",
+                "url": "https://www.bloomberg.com/company/stories/bloomberg-backs-open-web-docs/",
+                "domain": "bloomberg"
+            },
+            {
+                "title": "Why Do Tech SEO and WebPerf Matter",
+                "url": "https://www.techseovitals.com/751/why-do-technical-seo-and-web-performance-matter-for-every-business/",
+                "domain": "techseovitals"
+            },
+            {
+                "title": "Web Performance Guide",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/Performance",
+                "domain": "mozilla"
+            }
+        ],
+        "13": [
+            {
+                "title": "Downtime vs slowtime",
+                "url": "https://www.speedcurve.com/blog/downtime-vs-slowtime/",
+                "domain": "speedcurve"
+            },
+            {
+                "title": "Meet Declarative Web Push",
+                "url": "https://webkit.org/blog/16535/meet-declarative-web-push/",
+                "domain": "webkit"
+            },
+            {
+                "title": "T-Mobile's data-driven webperf approach",
+                "url": "https://web.dev/case-studies/t-mobile-case-study?hl=en",
+                "domain": "web"
+            },
+            {
+                "title": "Introducing a New Web Vital: TTU",
+                "url": "https://dev.to/infoxicator/introducing-a-new-web-vital-time-to-usability-ttu-13n3",
+                "domain": "infoxicator"
+            }
+        ],
+        "14": [
+            {
+                "title": "The 2025 report on the accessibility",
+                "url": "https://webaim.org/projects/million/",
+                "domain": "webaim"
+            },
+            {
+                "title": "Prioritising UX ahead of Search Rankings",
+                "url": "https://iankduffy.com/articles/web-performance---prioritising-user-experience-ahead-of-search-rankings/",
+                "domain": "iankduffy"
+            },
+            {
+                "title": "Experimenting with Web Performance",
+                "url": "https://medium.com/@alex.hamer_87127/experimenting-with-web-performance-b0af5a665e77",
+                "domain": "medium"
+            },
+            {
+                "title": "Compression Dictionary Transport",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+                "domain": "mozilla"
+            }
+        ],
+        "15": [
+            {
+                "title": "In the AI age, does the browser still matter?",
+                "url": "https://www.youtube.com/watch?v=O2ybbwPmh6A",
+                "domain": "firefox"
+            },
+            {
+                "title": "AI site builder on WordPress.com",
+                "url": "https://ma.tt/2025/04/ai-site-builder/",
+                "domain": "ma"
+            },
+            {
+                "title": "How To Fix Forced Reflows",
+                "url": "https://www.debugbear.com/blog/forced-reflows",
+                "domain": "debugbear"
+            },
+            {
+                "title": "New features in Shopify Theme Vitals",
+                "url": "https://themevitals.com/themes/",
+                "domain": "themevitals"
+            }
+        ],
+        "16": [
+            {
+                "title": "Performance improvements with Edge 134",
+                "url": "https://blogs.windows.com/msedgedev/2025/04/10/significant-performance-improvements-with-edge-134/",
+                "domain": "windows"
+            },
+            {
+                "title": "Advanced React in the Wild",
+                "url": "https://largeapps.dev/case-studies/advanced/",
+                "domain": "largeapps"
+            },
+            {
+                "title": "WordPress 6.8 performance improvements",
+                "url": "https://make.wordpress.org/core/2025/04/16/wordpress-6-8-performance-improvements/",
+                "domain": "wordpress"
+            },
+            {
+                "title": "Performance Hero: Alex Russell",
+                "url": "https://www.speedcurve.com/blog/performance-hero-alex-russell/",
+                "domain": "speedcurve"
+            }
+        ],
+        "17": [
+            {
+                "title": "Launching W3C Docs Community Group",
+                "url": "https://openwebdocs.org/content/posts/w3c-docs-cg/",
+                "domain": "openwebdocs"
+            },
+            {
+                "title": "IKEA’s web fonts",
+                "url": "https://medium.com/flat-pack-tech/ikeas-web-fonts-8e3879f4ccbb",
+                "domain": "medium"
+            },
+            {
+                "title": "AI Client Plugin for WordPress",
+                "url": "https://felixarntz.github.io/ai-services/",
+                "domain": "felixarntz"
+            },
+            {
+                "title": "The importance of HTML character encoding",
+                "url": "https://eprev.org/2017/01/04/the-importance-of-html-character-encoding/",
+                "domain": "eprev"
+            }
+        ],
+        "18": [
+            {
+                "title": "Contribute to the 2025 Web Almanac",
+                "url": "https://github.com/HTTPArchive/almanac.httparchive.org/discussions/4062",
+                "domain": "httparchive"
+            },
+            {
+                "title": "Lighthouse is moving to perf insight audits",
+                "url": "https://developer.chrome.com/blog/moving-lighthouse-to-insights",
+                "domain": "chrome"
+            },
+            {
+                "title": "Optimizing Next.js Performance",
+                "url": "https://www.iamtk.co/optimizing-nextjs-performance-lcp-render-delay-hydration",
+                "domain": "iamtk"
+            },
+            {
+                "title": "Stretching Google's prefetching",
+                "url": "https://www.pawelpokrywka.com/p/stretching-google-prefetching",
+                "domain": "pawelpokrywka"
+            }
+        ],
+        "19": [
+            {
+                "title": "Migrating From Gatsby to Next.js",
+                "url": "https://tech.onequince.com/rebuilding-quince-com-migrating-from-gatsby-to-next-js-198a4d8fb20c",
+                "domain": "onequince"
+            },
+            {
+                "title": "What's New With Web Components",
+                "url": "https://www.youtube.com/watch?v=dEFfqqJWLwQ",
+                "domain": "youtube"
+            },
+            {
+                "title": "Figma Sites Div Soup",
+                "url": "https://www.youtube.com/watch?v=6g-HxLhFHhc",
+                "domain": "youtube"
+            },
+            {
+                "title": "Web-vitals v5.0.0 has been released",
+                "url": "https://github.com/GoogleChrome/web-vitals/blob/main/docs/upgrading-to-v5.md",
+                "domain": "GoogleChrome"
+            }
+        ],
+        "20": [
+            {
+                "title": "New Shopify web performance reports",
+                "url": "https://help.shopify.com/en/manual/online-store/web-performance/web-performance-reports",
+                "domain": "shopify"
+            },
+            {
+                "title": "Improving Google Search with Compression Dictionaries",
+                "url": "https://developer.chrome.com/blog/search-compression-dictionaries",
+                "domain": "chrome"
+            },
+            {
+                "title": "How the browser pick a contrasting color in CSS",
+                "url": "https://webkit.org/blog/16929/contrast-color/",
+                "domain": "webkit"
+            },
+            {
+                "title": "CrUX 202504 dataset is live",
+                "url": "https://groups.google.com/a/chromium.org/g/chrome-ux-report-announce/c/myiCFh7M8t4",
+                "domain": "chrome"
+            }
+        ],
+        "21": [
+            {
+                "title": "What's new in web",
+                "url": "https://web.dev/blog/whats-new-in-web-io2025",
+                "domain": "web"
+            },
+            {
+                "title": "The Definitive Guide to Long Animation Frames",
+                "url": "https://www.speedcurve.com/blog/guide-long-animation-frames-loaf/",
+                "domain": "speedcurve"
+            },
+            {
+                "title": "Why Kleinanzeigen.de Picked Astro Over Next.js",
+                "url": "https://d13z.dev/blog/07-why-kleinanzeigen-picked-astro-over-nextjs/",
+                "domain": "d13z"
+            },
+            {
+                "title": "20 Ways to Make Angular Apps Faster",
+                "url": "https://medium.com/ngconf/20-ways-to-make-your-angular-apps-run-faster-part-1-rendering-optimizations-51d16425bd0e",
+                "domain": "medium"
+            }
+        ],
+        "22": [
+            {
+                "title": "Performance debugging in DevTools",
+                "url": "https://www.youtube.com/watch?v=BHqxD9qr6Gw",
+                "domain": "ChromeDevs"
+            },
+            {
+                "title": "Improve LCP by Deprioritizing Script Modules",
+                "url": "https://weston.ruter.net/2025/05/26/improve-lcp-by-deprioritizing-interactivity-api-script-modules/",
+                "domain": "ruter"
+            },
+            {
+                "title": "A11y Cat Accessibility Resources",
+                "url": "https://www.a11ycat.net/",
+                "domain": "a11ycat"
+            },
+            {
+                "title": "Understanding and using semantic HTML",
+                "url": "https://developer.mozilla.org/en-US/curriculum/core/semantic-html/",
+                "domain": "mozilla"
+            }
+        ],
+        "23": [
+            {
+                "title": "User Journeys vs. User Flows",
+                "url": "https://www.nngroup.com/articles/user-journeys-vs-user-flows",
+                "domain": "nngroup"
+            },
+            {
+                "title": "React Application Lighter and Faster",
+                "url": "https://juntao.substack.com/p/making-your-react-application-lighter",
+                "domain": "juntao"
+            },
+            {
+                "title": "What's new on Shopify WebPerf team?",
+                "url": "https://performance.shopify.com/blogs/blog/whats-new-on-the-shopify-web-perf-team",
+                "domain": "shopify"
+            },
+            {
+                "title": "Performance Archaeology",
+                "url": "https://3perf.com/blog/packer/",
+                "domain": "3perf"
+            }
+        ],
+        "24": [
+            {
+                "title": "What’s new in Safari and WebKit",
+                "url": "https://www.youtube.com/watch?v=r6LyKY07lsM",
+                "domain": "Apple"
+            },
+            {
+                "title": "How we’re adapting SEO for LLMs and AI search",
+                "url": "https://vercel.com/blog/how-were-adapting-seo-for-llms-and-ai-search",
+                "domain": "vercel"
+            },
+            {
+                "title": "Optimized Fonts in Nuxt",
+                "url": "https://dev.to/jacobandrewsky/optimized-fonts-in-nuxt-2a1n",
+                "domain": "jacobandrewsky"
+            },
+            {
+                "title": "Why Chrome DevTools Isn’t Enough",
+                "url": "https://palette.dev/blog/chrome-devtools-not-enough",
+                "domain": "palette"
+            }
+        ],
+        "25": [
+            {
+                "title": "Measuring LCP in SPA",
+                "url": "https://www.speedkit.com/blog/measuring-largest-contentful-paint-in-single-page-applications",
+                "domain": "speedkit"
+            },
+            {
+                "title": "Firefox quietly starts testing Perplexity AI",
+                "url": "https://9to5mac.com/2025/06/17/firefox-quietly-starts-testing-perplexity-ai-as-a-built-in-search-engine/",
+                "domain": "9to5mac"
+            },
+            {
+                "title": "JavaScript broke the web",
+                "url": "https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/",
+                "domain": "jonoalderson"
+            },
+            {
+                "title": "You can now build carousels with CSS! ",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_overflow/CSS_carousels",
+                "domain": "mozilla"
+            }
+        ],
+        "26": [
+            {
+                "title": "How to fix Speed Index on PageSpeed",
+                "url": "https://www.youtube.com/watch?v=HnMjQrvbja4",
+                "domain": "debugbear"
+            },
+            {
+                "title": "Building the Web in Islands, Not Mountains",
+                "url": "https://denodell.com/blog/building-the-web-in-islands",
+                "domain": "denodell"
+            },
+            {
+                "title": "AI Search Currently Drives Less Than 1% of Traffic",
+                "url": "https://www.gsqi.com/marketing-blog/ai-search-traffic-compared-to-google/",
+                "domain": "gsqi"
+            },
+            {
+                "title": "A guide to Scroll-driven Animations with just CSS",
+                "url": "https://webkit.org/blog/17101/a-guide-to-scroll-driven-animations-with-just-css/",
+                "domain": "webkit"
+            }
+        ],
+        "27": [
+            {
+                "title": "Conferences, Clarity, and Smokescreens",
+                "url": "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/",
+                "domain": "infrequently"
+            },
+            {
+                "title": "Real Performance Improvements 2025",
+                "url": "https://www.akamai.com/blog/performance/real-performance-improvements-2025",
+                "domain": "akamai"
+            },
+            {
+                "title": "Snippets to Debug Web Performance",
+                "url": "https://iankduffy.com/articles/snippets-to-help-debug-web-performance-issues",
+                "domain": "iankduffy"
+            },
+            {
+                "title": "Performance Hero: Harry Roberts",
+                "url": "https://www.speedcurve.com/blog/web-performance-hero-harry-roberts/",
+                "domain": "speedcurve"
+            }
+        ],
+        "28": [
+            {
+                "title": "NuxtLabs is joining Vercel",
+                "url": "https://nuxtlabs.com/",
+                "domain": "nuxtlabs"
+            },
+            {
+                "title": "Backend and Frontend Engineers Must Unite",
+                "url": "https://www.debugbear.com/blog/performance-divide-backend-frontend",
+                "domain": "debugbear"
+            },
+            {
+                "title": "PerfAgent is now publicly available",
+                "url": "https://github.com/PerfLab-io/perfagent",
+                "domain": "PerfLab-io"
+            },
+            {
+                "title": "Up and Coming ARIA",
+                "url": "https://webaim.org/blog/up-and-coming-aria/",
+                "domain": "webaim"
+            }
+        ],
+        "29": [
+            {
+                "title": "New to the web platform in June",
+                "url": "https://web.dev/blog/web-platform-06-2025",
+                "domain": "web"
+            },
+            {
+                "title": "We migrated 11ty and increased perf by 24%",
+                "url": "https://etch.co/blog/we-migrated-our-site-to-eleventy-and-increased-performance-by-24-percent/",
+                "domain": "etch"
+            },
+            {
+                "title": "Embedding WebPageTest traces in blog posts",
+                "url": "https://github.com/slightlyoff/wpt-embed",
+                "domain": "slightlyoff"
+            },
+            {
+                "title": "Open Source Elevate Your Professional Journey",
+                "url": "https://felix-arntz.me/blog/open-source-contributions-elevate-your-professional-journey/",
+                "domain": "felix-arntz"
+            }
+        ],
+        "30": [
+            {
+                "title": "The StateOfHTML 2025 survey is open!",
+                "url": "https://survey.devographics.com/en-US/survey/state-of-html/2025",
+                "domain": "devographics"
+            },
+            {
+                "title": "Nuxt performance",
+                "url": "https://nuxt.com/docs/4.x/guide/best-practices/performance",
+                "domain": "nuxt"
+            },
+            {
+                "title": "Celebrating 20 years of MDN",
+                "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+                "domain": "mozilla"
+            },
+            {
+                "title": "Refactoring for Performance",
+                "url": "https://reflex.dev/blog/2025-07-01-reflex-080/",
+                "domain": "reflex"
+            }
+        ],
+        "31": [
+            {
+                "title": "Introducing Copilot Mode in Edge",
+                "url": "https://www.microsoft.com/en-us/edge/ai-powered/copilot-mode",
+                "domain": "microsoft"
+            },
+            {
+                "title": "Performance improvements for WP 6.9",
+                "url": "https://make.wordpress.org/core/2025/07/28/roadmap-to-6-9/#performance-improvements",
+                "domain": "wordpress"
+            },
+            {
+                "title": "New Soft Navigations origin trial",
+                "url": "https://developer.chrome.com/blog/new-soft-navigations-origin-trial",
+                "domain": "chrome"
+            },
+            {
+                "title": "When use CrUX, RUM, and Synthetic WebPerf",
+                "url": "https://www.speedcurve.com/blog/crux-rum-synthetic-web-performance-monitoring/",
+                "domain": "speedcurve"
+            }
+        ],
+        "32": [
+            {
+                "title": "Dynamic rendering at scale with HelloFresh",
+                "url": "https://www.youtube.com/watch?v=17edNHhfkys",
+                "domain": "vercel"
+            },
+            {
+                "title": "2025 SaaS WebPerf Benchmark Report",
+                "url": "https://www.catchpoint.com/learn/2025-saas-website-performance-benchmark-report",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "The Performance Extensibility API",
+                "url": "https://csswizardry.com/2025/07/the-extensibility-api/",
+                "domain": "csswizardry"
+            },
+            {
+                "title": "Why Debugging Web Performance",
+                "url": "https://www.youtube.com/watch?v=rC5IsRsh5GE",
+                "domain": "pixelpioneers"
+            }
+        ],
+        "33": [
+            {
+                "title": "HTTP is not simple",
+                "url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
+                "domain": "haxx"
+            },
+            {
+                "title": "Container Queries are Widely Available!",
+                "url": "https://www.youtube.com/watch?v=bhHV0rQ3-CQ",
+                "domain": "oddbird"
+            },
+            {
+                "title": "Adidas Protected High-Stakes Ecommerce",
+                "url": "https://www.akamai.com/resources/customer-story/adidas",
+                "domain": "akamai"
+            },
+            {
+                "title": "How do LoAF affect user behavior?",
+                "url": "https://www.speedcurve.com/blog/long-animation-frames-user-behavior/",
+                "domain": "speedcurve"
+            }
+        ],
+        "34": [
+            {
+                "title": "AI Bots and Robots.txt",
+                "url": "https://paulcalvano.com/2025-08-21-ai-bots-and-robots-txt/",
+                "domain": "paulcalvano"
+            },
+            {
+                "title": "From SEO to AEO",
+                "url": "https://www.catchpoint.com/blog/from-seo-to-aeo-why-web-performance-is-the-key-to-ai-search-success",
+                "domain": "catchpoint"
+            },
+            {
+                "title": "Why CrUX Report & Search Console Don't Match",
+                "url": "https://www.seroundtable.com/google-chrome-ux-vs-search-console-report-39962.html",
+                "domain": "seroundtable"
+            },
+            {
+                "title": "Web Sustainability Guidelines",
+                "url": "https://w3c.github.io/sustainableweb-wsg/",
+                "domain": "w3c"
+            }
+        ],
+        "35": [
+            {
+                "title": "Mobile is more than Android and iOS",
+                "url": "https://www.linuxfoundation.org/research/open-mobile-hub-2025",
+                "domain": "linuxfoundation"
+            },
+            {
+                "title": "Optimize Third Party Scripts",
+                "url": "https://www.debugbear.com/blog/partytown-web-workers",
+                "domain": "debugbear"
+            },
+            {
+                "title": "How to Make Accessibility 'Stick'",
+                "url": "https://buttondown.com/access-ability/archive/how-to-make-accessibility-stick",
+                "domain": "buttondown"
+            },
+            {
+                "title": "Speculation Rules at Shopify",
+                "url": "https://performance.shopify.com/blogs/blog/speculation-rules-at-shopify",
+                "domain": "shopify"
+            }
+        ],
+        "36": [
+            {
+                "title": "A complete guide to HTTP caching",
+                "url": "https://www.jonoalderson.com/performance/http-caching",
+                "domain": "jonoalderson"
+            },
+            {
+                "title": "Thinking about network sustainability",
+                "url": "https://fershad.com/writing/network-sustainability-for-frontend-devs",
+                "domain": "fershad"
+            },
+            {
+                "title": "Google Chrome at 17",
+                "url": "https://addyosmani.com/blog/chrome-17th/",
+                "domain": "addyosmani"
+            },
+            {
+                "title": "Do you always need to invest in performance?",
+                "url": "https://www.debugbear.com/blog/performance-engineering-why-invest-in-web-performance",
+                "domain": "debugbear"
+            }
+        ],
+        "37": [
+            {
+                "title": "CrUX Dashboard deprecation",
+                "url": "https://developer.chrome.com/blog/crux-dashboard-deprecation",
+                "domain": "chrome"
+            },
+            {
+                "title": "Writing WebSocket client applications",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications",
+                "domain": "mozilla"
+            },
+            {
+                "title": "Walmart Journey to Optimize Web Performance",
+                "url": "https://medium.com/walmartglobaltech/walmart-journey-to-optimize-web-performance-and-drive-business-growth-c3bec8d7780b",
+                "domain": "medium"
+            },
+            {
+                "title": "Retail Web Performance Benchmark 2025",
+                "url": "https://www.catchpoint.com/blog/when-metrics-mislead-inside-the-2025-retail-web-performance-benchmark",
+                "domain": "catchpoint"
+            }
+        ],
+        "38": [
+            {
+                "title": "How modern browsers work",
+                "url": "https://addyo.substack.com/p/how-modern-browsers-work",
+                "domain": "addyo"
+            },
+            {
+                "title": "Fastest Sites Run on Fastly",
+                "url": "https://www.fastly.com/blog/fastest-sites-run-on-fastly",
+                "domain": "fastly"
+            },
+            {
+                "title": "The RUM Diaries",
+                "url": "https://blog.cloudflare.com/the-rum-diaries-enabling-web-analytics-by-default/",
+                "domain": "cloudflare"
+            },
+            {
+                "title": "The biggest upgrades to Google Chrome",
+                "url": "https://blog.google/products/chrome/new-ai-features-for-chrome/",
+                "domain": "google"
+            }
+        ],
+        "39": [
+            {
+                "title": "What Is LCP And Why It Matters",
+                "url": "https://push-based.io/article/what-is-lcp-and-why-it-matters-unlock-instant-page-experiences-part-1",
+                "domain": "push-based"
+            },
+            {
+                "title": "How WebPerf Impacts Shareholder Value",
+                "url": "https://www.searchenginejournal.com/from-line-item-to-leverage-how-web-performance-impacts-shareholder-value/552889/",
+                "domain": "searchenginejournal"
+            },
+            {
+                "title": "Announcing Chrome DevTools MCP!",
+                "url": "https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en",
+                "domain": "chrome"
+            },
+            {
+                "title": "Audit your website with Impolighthouse",
+                "url": "https://www.jonoalderson.com/impolighthouse/",
+                "domain": "jonoalderson"
+            }
+        ],
+        "40": [
+            {
+                "title": "How to enrich RUM data in Datadog",
+                "url": "https://medium.com/@.gokberk/how-to-enrich-rum-data-in-datadog-8c0ef446fe2b",
+                "domain": "medium"
+            },
+            {
+                "title": "Time to Brand Identity",
+                "url": "https://iankduffy.com/articles/time-to-brand-identity",
+                "domain": "iankduffy"
+            },
+            {
+                "title": "Core Web Vitals mystery",
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7379206314520051712/",
+                "domain": "linkedin"
+            },
+            {
+                "title": "Safari Technology Preview now supports INP",
+                "url": "https://developer.apple.com/documentation/safari-technology-preview-release-notes/stp-release-229#New-Features",
+                "domain": "apple"
+            }
+        ],
+        "41": [
+            {
+                "title": "What's new in Lighthouse 13",
+                "url": "https://developer.chrome.com/blog/lighthouse-13-0",
+                "domain": "chrome"
+            },
+            {
+                "title": "11ty Hacks for Fun and Performance",
+                "url": "https://infrequently.org/2025/10/11ty-hacks-for-fun-and-performance/",
+                "domain": "infrequently"
+            },
+            {
+                "title": "Launch the React Foundation",
+                "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-intent-to-launch-the-react-foundation",
+                "domain": "linuxfoundation"
+            },
+            {
+                "title": "ShopifyQL is now in the Admin API",
+                "url": "https://shopify.dev/changelog/shopifyqlquery-now-available-in-graphql-admin-api",
+                "domain": "shopify"
+            }
+        ],
+        "42": [
+            {
+                "title": "About WebPerformance Report",
+                "url": "https://webperformancereport.com/about-us/",
+                "domain": "webperformancereport"
+            },
+            {
+                "title": "How Framer reduced LCP using Rolldown",
+                "url": "https://voidzero.dev/posts/case-study-framer-rolldown",
+                "domain": "voidzero"
+            },
+            {
+                "title": "The Core Web Vitals Tech Report",
+                "url": "https://httparchive.org/reports/techreport/landing",
+                "domain": "httparchive"
+            },
+            {
+                "title": "The AI Cloud",
+                "url": "https://rauchg.com/2025/the-ai-cloud",
+                "domain": "rauchg"
+            }
+        ],
+        "43": [
+            {
+                "title": "The History of Core Web Vitals",
+                "url": "https://addyosmani.com/blog/core-web-vitals/",
+                "domain": "addyosmani"
+            },
+            {
+                "title": "Meet our new browser—ChatGPT Atlas",
+                "url": "https://openai.com/index/introducing-chatgpt-atlas/",
+                "domain": "openai"
+            },
+            {
+                "title": "WCAG 2.2 is now ISO/IEC 40500:2025",
+                "url": "https://www.w3.org/press-releases/2025/wcag22-iso-pas/",
+                "domain": "w3"
+            },
+            {
+                "title": "Progressive image rendering",
+                "url": "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/",
+                "domain": "jakearchibald"
+            }
+        ],
+        "44": [
+            {
+                "title": "Improving perf by prefetching product pages",
+                "url": "https://www.etsy.com/codeascraft/search-prefetching-performance",
+                "domain": "etsy"
+            },
+            {
+                "title": "HTTPS by default",
+                "url": "https://security.googleblog.com/2025/10/https-by-default.html",
+                "domain": "googleblog"
+            },
+            {
+                "title": "Write Code That Runs in the Browser",
+                "url": "https://blog.jim-nielsen.com/2025/more-control-equals-less-performance/",
+                "domain": "jim-nielsen"
+            },
+            {
+                "title": "Why is Web Perf Undervalued?",
+                "url": "https://blaines-blog.com/post-2",
+                "domain": "blaines-blog"
+            }
+        ],
+        "45": [
+            {
+                "title": "CLOUDFLARE TELESCOPE",
+                "url": "https://telescopetest.com/",
+                "domain": "telescopetest"
+            },
+            {
+                "title": "Optimizing Webfonts",
+                "url": "https://lucas.dohmen.io/posts/2025/10/20/webfonts/",
+                "domain": "dohmen"
+            },
+            {
+                "title": "How to optimize SVG files",
+                "url": "https://penpot.app/blog/how-to-optimize-svg-files-a-complete-guide-for-beginners/",
+                "domain": "penpot"
+            },
+            {
+                "title": "Using the Web Monetization API",
+                "url": "https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/",
+                "domain": "tomayac"
+            }
+        ],
+        "46": [
+            {
+                "title": "AI assistance for performance",
+                "url": "https://developer.chrome.com/docs/devtools/ai-assistance/performance",
+                "domain": "chrome"
+            },
+            {
+                "title": "The Web Animation Performance",
+                "url": "https://motion.dev/blog/web-animation-performance-tier-list",
+                "domain": "motion"
+            },
+            {
+                "title": "How Fast Is Fast Enough?",
+                "url": "https://conffab.com/presentation/how-fast-is-fast-enough/?gl=x9afm7Z3U7ou",
+                "domain": "conffab"
+            },
+            {
+                "title": "Performance is about people",
+                "url": "https://www.speedcurve.com/blog/performance-is-about-people/",
+                "domain": "speedcurve"
+            }
+        ],
+        "47": [
+            {
+                "title": "WebPerformance Report on SPDY STREAM podcast",
+                "url": "https://www.youtube.com/watch?v=xEOLW_FF-Vg",
+                "domain": "youtube"
+            },
+            {
+                "title": "WordPress 6.9 Performance Landings",
+                "url": "https://weston.ruter.net/2025/11/17/wordpress-6-9-performance-landings/",
+                "domain": "ruter"
+            },
+            {
+                "title": "I Built the Same App 10 Times",
+                "url": "https://www.lorenstew.art/blog/10-kanban-boards",
+                "domain": "lorenstew"
+            },
+            {
+                "title": "Start building with Gemini 3",
+                "url": "https://blog.google/technology/developers/gemini-3-developers/",
+                "domain": "google"
+            }
+        ],
+        "48": [
+            {
+                "title": "The Performance Inequality Gap, 2026",
+                "url": "https://infrequently.org/2025/11/performance-inequality-gap-2026",
+                "domain": "infrequently"
+            },
+            {
+                "title": "How fast can browsers process base64 data?",
+                "url": "https://lemire.me/blog/2025/11/29/how-fast-can-browsers-process-base64-data",
+                "domain": "lemire"
+            },
+            {
+                "title": "Explaining the Accessible Benefits",
+                "url": "https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements",
+                "domain": "css-tricks"
+            },
+            {
+                "title": "Why use React?",
+                "url": "https://adactio.com/journal/22265",
+                "domain": "adactio"
+            }
+        ],
+        "49": [
+            {
+                "title": "Timeline of web features and browser support",
+                "url": "https://rviscomi.github.io/timebase",
+                "domain": "rviscomi"
+            },
+            {
+                "title": "Fast by Default",
+                "url": "https://calendar.perfplanet.com/2025/fast-by-default",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Analyzing CSS Media Queries to Optimize Performance",
+                "url": "https://www.linkedin.com/pulse/analyzing-css-media-queries-optimize-performance-joan-le%25C3%25B3n-2eo1f",
+                "domain": "linkedin"
+            },
+            {
+                "title": "What was new in web performance in 2025",
+                "url": "https://www.debugbear.com/blog/2025-in-web-performance",
+                "domain": "debugbear"
+            }
+        ],
+        "50": [
+            {
+                "title": "The Anatomy of a Web Performance Report",
+                "url": "https://calendar.perfplanet.com/2025/the-anatomy-of-a-web-performance-report/",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "WebKit Features for Safari 26.2",
+                "url": "https://webkit.org/blog/17640/webkit-features-for-safari-26-2/",
+                "domain": "webkit"
+            },
+            {
+                "title": "How Monrif improved engagement by 8.9%",
+                "url": "https://web.dev/case-studies/monrif-cwv",
+                "domain": "web"
+            },
+            {
+                "title": "Making web apps faster",
+                "url": "https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/",
+                "domain": "windows"
+            }
+        ],
+        "51": [
+            {
+                "title": "The Anatomy of a Web Performance Report",
+                "url": "https://calendar.perfplanet.com/2025/the-anatomy-of-a-web-performance-report/",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "WebKit Features for Safari 26.2",
+                "url": "https://webkit.org/blog/17640/webkit-features-for-safari-26-2/",
+                "domain": "webkit"
+            },
+            {
+                "title": "How Monrif improved engagement by 8.9%",
+                "url": "https://web.dev/case-studies/monrif-cwv",
+                "domain": "web"
+            },
+            {
+                "title": "How to load CSS (fast)",
+                "url": "https://calendar.perfplanet.com/2025/how-to-load-css-fast/",
+                "domain": "perfplanet"
+            }
+        ]
+    }
+}
