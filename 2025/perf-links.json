@@ -1126,24 +1126,46 @@
         ],
         "51": [
             {
-                "title": "The Anatomy of a Web Performance Report",
-                "url": "https://calendar.perfplanet.com/2025/the-anatomy-of-a-web-performance-report/",
-                "domain": "perfplanet"
-            },
-            {
-                "title": "WebKit Features for Safari 26.2",
-                "url": "https://webkit.org/blog/17640/webkit-features-for-safari-26-2/",
-                "domain": "webkit"
-            },
-            {
-                "title": "How Monrif improved engagement by 8.9%",
-                "url": "https://web.dev/case-studies/monrif-cwv",
+                "title": "LCP and INP are now Baseline Newly available",
+                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
                 "domain": "web"
             },
             {
-                "title": "How to load CSS (fast)",
-                "url": "https://calendar.perfplanet.com/2025/how-to-load-css-fast/",
+                "title": "Faster pages with Compression Dictionaries",
+                "url": "https://www.rumvision.com/blog/smaller-payloads-faster-pages-compression-dictionaries",
+                "domain": "rumvision"
+            },
+            {
+                "title": "A Short History of Performance Engineering",
+                "url": "https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering",
                 "domain": "perfplanet"
+            },
+            {
+                "title": "Next.js Performance Optimization",
+                "url": "https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you",
+                "domain": "danywalls"
+            }
+        ],
+        "52": [
+            {
+                "title": "LCP and INP are now Baseline Newly available",
+                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
+                "domain": "web"
+            },
+            {
+                "title": "Faster pages with Compression Dictionaries",
+                "url": "https://www.rumvision.com/blog/smaller-payloads-faster-pages-compression-dictionaries",
+                "domain": "rumvision"
+            },
+            {
+                "title": "A Short History of Performance Engineering",
+                "url": "https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Next.js Performance Optimization",
+                "url": "https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you",
+                "domain": "danywalls"
             }
         ]
     }

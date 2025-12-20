@@ -406,7 +406,7 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 ---
 
 ## Week 51
-- ⚡ [The Anatomy of a Web Performance Report](https://calendar.perfplanet.com/2025/the-anatomy-of-a-web-performance-report/) [perfplanet]
-- ⚡ [WebKit Features for Safari 26.2](https://webkit.org/blog/17640/webkit-features-for-safari-26-2/) [webkit]
-- ⚡ [How Monrif improved engagement by 8.9%](https://web.dev/case-studies/monrif-cwv) [web]
-- ⚡ [How to load CSS (fast)](https://calendar.perfplanet.com/2025/how-to-load-css-fast/) [perfplanet]
+- ⚡ [LCP and INP are now Baseline Newly available](https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available) [web]
+- ⚡ [Faster pages with Compression Dictionaries](https://www.rumvision.com/blog/smaller-payloads-faster-pages-compression-dictionaries) [rumvision]
+- ⚡ [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering) [perfplanet]
+- ⚡ [Next.js Performance Optimization](https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you) [danywalls]
