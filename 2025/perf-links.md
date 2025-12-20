@@ -401,7 +401,7 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The Anatomy of a Web Performance Report](https://calendar.perfplanet.com/2025/the-anatomy-of-a-web-performance-report/) [perfplanet]
 - ⚡ [WebKit Features for Safari 26.2](https://webkit.org/blog/17640/webkit-features-for-safari-26-2/) [webkit]
 - ⚡ [How Monrif improved engagement by 8.9%](https://web.dev/case-studies/monrif-cwv) [web]
-- ⚡ [Making web apps faster](https://blogs.windows.com/msedgedev/2025/12/09/making-complex-web-apps-faster/) [windows]
+- ⚡ [How to load CSS (fast)](https://calendar.perfplanet.com/2025/how-to-load-css-fast) [perfplanet]
 
 ---
 
