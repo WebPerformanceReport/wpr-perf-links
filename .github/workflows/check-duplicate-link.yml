@@ -2,11 +2,17 @@ name: Check Duplicate Perf Link
 
 on:
   issues:
-    types: [opened]
+    types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Issue Number'
+        required: true
+        type: string
 
 jobs:
   check-duplicate:
-    if: contains(github.event.issue.body, '## URL')
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.body, '## URL')
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -26,7 +32,27 @@ jobs:
             const path = require('path');
             const { create } = require('@actions/glob');
 
-            const issueBody = context.payload.issue.body || '';
+            let issueNumber = context.issue.number;
+            let issueBody = context.payload.issue ? context.payload.issue.body : '';
+
+            // Handle manual trigger
+            if (context.eventName === 'workflow_dispatch') {
+              issueNumber = parseInt(context.payload.inputs.issue_number);
+              try {
+                const { data: issue } = await github.rest.issues.get({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issueNumber
+                });
+                issueBody = issue.body;
+              } catch (error) {
+                console.log(`Error fetching issue ${issueNumber}: ${error.message}`);
+                return; // Exit if issue not found
+              }
+            }
+            
+            // Re-assign context issue number for comments
+            context.issue.number = issueNumber;
 
             // Extract first valid URL from issue body
             const urlRegex = /https?:\/\/[^\s\)>\]"']+/gi;
@@ -34,12 +60,16 @@ jobs:
 
             if (!urls || urls.length === 0) {
               console.log('No URL found in issue body');
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body: `Thanks for your suggestion! However, I couldn't find a valid URL in your issue. Please make sure to include the full URL of the resource you're suggesting.`
-              });
+              // Only comment if it was an automated run (opened/labeled) or valid manual run
+              // to avoid spamming if testing on empty issues
+              if (issueBody) {
+                  await github.rest.issues.createComment({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: issueNumber,
+                    body: `Thanks for your suggestion! However, I couldn't find a valid URL in your issue. Please make sure to include the full URL of the resource you're suggesting.`
+                  });
+              }
               return;
             }
 
@@ -104,7 +134,7 @@ jobs:
               await github.rest.issues.addLabels({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number: issueNumber,
                 labels: ['duplicated']
               });
 
@@ -114,7 +144,7 @@ jobs:
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number: issueNumber,
                 body: `Thanks for your suggestion! However, this resource is already in our collection. \n\n**"${duplicate.title}"** was added in **${duplicate.year} Week ${duplicate.week}**. \n\nYou can find it here: [${duplicate.filePath}#L${duplicate.lineNumber}](${fileUrl}) \n\nWe appreciate your contribution to the Web Performance community!`
               });
 
@@ -124,7 +154,7 @@ jobs:
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number: issueNumber,
                 body: `Thanks for suggesting this resource! We'll review it and consider adding it to our collection. \n\n We appreciate your contribution to the Web Performance community!`
               });
 
