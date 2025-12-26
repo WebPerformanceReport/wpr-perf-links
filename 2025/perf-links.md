@@ -410,3 +410,11 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Faster pages with Compression Dictionaries](https://www.rumvision.com/blog/smaller-payloads-faster-pages-compression-dictionaries) [rumvision]
 - ⚡ [A Short History of Performance Engineering](https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering) [perfplanet]
 - ⚡ [Next.js Performance Optimization](https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you) [danywalls]
+
+---
+
+## Week 52
+- ⚡ [Why Your Server Is Paying for Your CSS Choices](https://dp-lewis.medium.com/why-your-server-is-paying-for-your-css-choices-69257e287c29) [medium]
+- ⚡ [Nuxt Scripts for improved Performance and Security](https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i) [dev]
+- ⚡ [Chasing BFCache navigations](https://calendar.perfplanet.com/2025/chasing-bfcache-navigations) [perfplanet]
+- ⚡ [TTFB doesn’t mean what you think it means](https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means) [perfplanet]

@@ -1148,24 +1148,48 @@
         ],
         "52": [
             {
-                "title": "LCP and INP are now Baseline Newly available",
-                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
-                "domain": "web"
+                "title": "Why Your Server Is Paying for Your CSS Choices",
+                "url": "https://dp-lewis.medium.com/why-your-server-is-paying-for-your-css-choices-69257e287c29",
+                "domain": "medium"
             },
             {
-                "title": "Faster pages with Compression Dictionaries",
-                "url": "https://www.rumvision.com/blog/smaller-payloads-faster-pages-compression-dictionaries",
-                "domain": "rumvision"
+                "title": "Nuxt Scripts for improved Performance and Security",
+                "url": "https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i",
+                "domain": "dev"
             },
             {
-                "title": "A Short History of Performance Engineering",
-                "url": "https://calendar.perfplanet.com/2025/a-short-history-of-performance-engineering",
+                "title": "Chasing BFCache navigations",
+                "url": "https://calendar.perfplanet.com/2025/chasing-bfcache-navigations",
                 "domain": "perfplanet"
             },
             {
-                "title": "Next.js Performance Optimization",
-                "url": "https://danywalls.com/nextjs-performance-what-the-defaults-dont-solve-for-you",
-                "domain": "danywalls"
+                "title": "TTFB doesn’t mean what you think it means",
+                "url": "https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means",
+                "domain": "perfplanet"
+            }
+        ]
+    },
+    "2026": {
+        "01": [
+            {
+                "title": "Why Your Server Is Paying for Your CSS Choices",
+                "url": "https://dp-lewis.medium.com/why-your-server-is-paying-for-your-css-choices-69257e287c29",
+                "domain": "medium"
+            },
+            {
+                "title": "Nuxt Scripts for improved Performance and Security",
+                "url": "https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i",
+                "domain": "dev"
+            },
+            {
+                "title": "Chasing BFCache navigations",
+                "url": "https://calendar.perfplanet.com/2025/chasing-bfcache-navigations",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "TTFB doesn’t mean what you think it means",
+                "url": "https://calendar.perfplanet.com/2025/ttfb-doesnt-mean-what-you-think-it-means",
+                "domain": "perfplanet"
             }
         ]
     }
