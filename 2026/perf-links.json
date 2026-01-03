@@ -1,0 +1,48 @@
+{
+    "2026": {
+        "01": [
+            {
+                "title": "Web Performance Calendar 2025 Edition",
+                "url": "https://calendar.perfplanet.com/2025",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Web Accessibility Predictions for 2026",
+                "url": "https://webaim.org/blog/2026-predictions",
+                "domain": "webaim"
+            },
+            {
+                "title": "SEO in 2026: The AI Evolution",
+                "url": "https://www.takeitoffline.co.uk/blog/2026-seo-predictions",
+                "domain": "takeitoffline"
+            },
+            {
+                "title": "Top 5 Web Security Threats of 2025",
+                "url": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+                "domain": "thehackernews"
+            }
+        ],
+        "02": [
+            {
+                "title": "Web Performance Calendar 2025 Edition",
+                "url": "https://calendar.perfplanet.com/2025",
+                "domain": "perfplanet"
+            },
+            {
+                "title": "Web Accessibility Predictions for 2026",
+                "url": "https://webaim.org/blog/2026-predictions",
+                "domain": "webaim"
+            },
+            {
+                "title": "SEO in 2026: The AI Evolution",
+                "url": "https://www.takeitoffline.co.uk/blog/2026-seo-predictions",
+                "domain": "takeitoffline"
+            },
+            {
+                "title": "Top 5 Web Security Threats of 2025",
+                "url": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+                "domain": "thehackernews"
+            }
+        ]
+    }
+}
