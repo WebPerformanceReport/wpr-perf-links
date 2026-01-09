@@ -24,24 +24,46 @@
         ],
         "02": [
             {
-                "title": "Web Performance Calendar 2025 Edition",
-                "url": "https://calendar.perfplanet.com/2025",
-                "domain": "perfplanet"
+                "title": "Web dependencies are broken",
+                "url": "https://lea.verou.me/blog/2026/web-deps",
+                "domain": "verou"
             },
             {
-                "title": "Web Accessibility Predictions for 2026",
-                "url": "https://webaim.org/blog/2026-predictions",
-                "domain": "webaim"
+                "title": "2026 CSS wishlist",
+                "url": "https://knowler.dev/blog/2026-css-wishlist",
+                "domain": "knowler"
             },
             {
-                "title": "SEO in 2026: The AI Evolution",
-                "url": "https://www.takeitoffline.co.uk/blog/2026-seo-predictions",
-                "domain": "takeitoffline"
+                "title": "Payments and web perf data in Sidekick",
+                "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/shopifyql-editor/generate-shopifyql-queries",
+                "domain": "shopify"
             },
             {
-                "title": "Top 5 Web Security Threats of 2025",
-                "url": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
-                "domain": "thehackernews"
+                "title": "Improving LCP for Video Hero Components",
+                "url": "https://aarontgrogg.com/blog/2026/01/06/improving-lcp-for-video-hero-components",
+                "domain": "aarontgrogg"
+            }
+        ],
+        "03": [
+            {
+                "title": "Web dependencies are broken",
+                "url": "https://lea.verou.me/blog/2026/web-deps",
+                "domain": "verou"
+            },
+            {
+                "title": "2026 CSS wishlist",
+                "url": "https://knowler.dev/blog/2026-css-wishlist",
+                "domain": "knowler"
+            },
+            {
+                "title": "Payments and web perf data in Sidekick",
+                "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/shopifyql-editor/generate-shopifyql-queries",
+                "domain": "shopify"
+            },
+            {
+                "title": "Improving LCP for Video Hero Components",
+                "url": "https://aarontgrogg.com/blog/2026/01/06/improving-lcp-for-video-hero-components",
+                "domain": "aarontgrogg"
             }
         ]
     }
