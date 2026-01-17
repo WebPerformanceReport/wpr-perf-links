@@ -46,24 +46,46 @@
         ],
         "03": [
             {
-                "title": "Web dependencies are broken",
-                "url": "https://lea.verou.me/blog/2026/web-deps",
-                "domain": "verou"
+                "title": "Astro Tech Company joins Cloudflare",
+                "url": "https://astro.build/blog/joining-cloudflare",
+                "domain": "astro"
             },
             {
-                "title": "2026 CSS wishlist",
-                "url": "https://knowler.dev/blog/2026-css-wishlist",
-                "domain": "knowler"
+                "title": "The 2025 Web Almanac by HTTP Archive",
+                "url": "https://almanac.httparchive.org/en/2025",
+                "domain": "httparchive"
             },
             {
-                "title": "Payments and web perf data in Sidekick",
-                "url": "https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/shopifyql-editor/generate-shopifyql-queries",
-                "domain": "shopify"
+                "title": "Making Sense of Next.js Caching for SEOs",
+                "url": "https://www.willkennard.com/digital-blog/making-sense-nextjs-caching-for-developers-seos",
+                "domain": "willkennard"
             },
             {
-                "title": "Improving LCP for Video Hero Components",
-                "url": "https://aarontgrogg.com/blog/2026/01/06/improving-lcp-for-video-hero-components",
-                "domain": "aarontgrogg"
+                "title": "25 years of Drupal",
+                "url": "https://dri.es/25-years-of-drupal-what-i-have-learned",
+                "domain": "dri"
+            }
+        ],
+        "04": [
+            {
+                "title": "Astro Tech Company joins Cloudflare",
+                "url": "https://astro.build/blog/joining-cloudflare",
+                "domain": "astro"
+            },
+            {
+                "title": "The 2025 Web Almanac by HTTP Archive",
+                "url": "https://almanac.httparchive.org/en/2025",
+                "domain": "httparchive"
+            },
+            {
+                "title": "Making Sense of Next.js Caching for SEOs",
+                "url": "https://www.willkennard.com/digital-blog/making-sense-nextjs-caching-for-developers-seos",
+                "domain": "willkennard"
+            },
+            {
+                "title": "25 years of Drupal",
+                "url": "https://dri.es/25-years-of-drupal-what-i-have-learned",
+                "domain": "dri"
             }
         ]
     }

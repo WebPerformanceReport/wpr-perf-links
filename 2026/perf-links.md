@@ -16,3 +16,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [2026 CSS wishlist](https://knowler.dev/blog/2026-css-wishlist) [knowler]
 - ⚡ [Payments and web perf data in Sidekick](https://help.shopify.com/en/manual/reports-and-analytics/shopify-reports/report-types/shopifyql-editor/generate-shopifyql-queries) [shopify]
 - ⚡ [Improving LCP for Video Hero Components](https://aarontgrogg.com/blog/2026/01/06/improving-lcp-for-video-hero-components) [aarontgrogg]
+
+## Week 03
+- ⚡ [Astro Tech Company joins Cloudflare](https://astro.build/blog/joining-cloudflare) [astro]
+- ⚡ [The 2025 Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2025) [httparchive]
+- ⚡ [Making Sense of Next.js Caching for SEOs](https://www.willkennard.com/digital-blog/making-sense-nextjs-caching-for-developers-seos) [willkennard]
+- ⚡ [25 years of Drupal](https://dri.es/25-years-of-drupal-what-i-have-learned) [dri]
