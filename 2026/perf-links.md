@@ -22,3 +22,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The 2025 Web Almanac by HTTP Archive](https://almanac.httparchive.org/en/2025) [httparchive]
 - ⚡ [Making Sense of Next.js Caching for SEOs](https://www.willkennard.com/digital-blog/making-sense-nextjs-caching-for-developers-seos) [willkennard]
 - ⚡ [25 years of Drupal](https://dri.es/25-years-of-drupal-what-i-have-learned) [dri]
+
+## Week 04
+- ⚡ [State of UX 2026](https://www.nngroup.com/articles/state-of-ux-2026) [nngroup]
+- ⚡ [Guide to Japan SEO](https://www.zodigital.jp/blog/guide-to-japan-seo) [zodigital]
+- ⚡ [SEO | 2025 | The Web Almanac](https://almanac.httparchive.org/en/2025/seo) [httparchive]
+- ⚡ [The Web is Changing (1/5)](https://j.cv/the-web-is-changing-1-5) [j]

@@ -68,24 +68,46 @@
         ],
         "04": [
             {
-                "title": "Astro Tech Company joins Cloudflare",
-                "url": "https://astro.build/blog/joining-cloudflare",
-                "domain": "astro"
+                "title": "State of UX 2026",
+                "url": "https://www.nngroup.com/articles/state-of-ux-2026",
+                "domain": "nngroup"
             },
             {
-                "title": "The 2025 Web Almanac by HTTP Archive",
-                "url": "https://almanac.httparchive.org/en/2025",
+                "title": "Guide to Japan SEO",
+                "url": "https://www.zodigital.jp/blog/guide-to-japan-seo",
+                "domain": "zodigital"
+            },
+            {
+                "title": "SEO | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/seo",
                 "domain": "httparchive"
             },
             {
-                "title": "Making Sense of Next.js Caching for SEOs",
-                "url": "https://www.willkennard.com/digital-blog/making-sense-nextjs-caching-for-developers-seos",
-                "domain": "willkennard"
+                "title": "The Web is Changing (1/5)",
+                "url": "https://j.cv/the-web-is-changing-1-5",
+                "domain": "j"
+            }
+        ],
+        "05": [
+            {
+                "title": "State of UX 2026",
+                "url": "https://www.nngroup.com/articles/state-of-ux-2026",
+                "domain": "nngroup"
             },
             {
-                "title": "25 years of Drupal",
-                "url": "https://dri.es/25-years-of-drupal-what-i-have-learned",
-                "domain": "dri"
+                "title": "Guide to Japan SEO",
+                "url": "https://www.zodigital.jp/blog/guide-to-japan-seo",
+                "domain": "zodigital"
+            },
+            {
+                "title": "SEO | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/seo",
+                "domain": "httparchive"
+            },
+            {
+                "title": "The Web is Changing (1/5)",
+                "url": "https://j.cv/the-web-is-changing-1-5",
+                "domain": "j"
             }
         ]
     }
