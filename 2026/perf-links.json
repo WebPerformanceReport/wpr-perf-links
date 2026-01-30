@@ -90,24 +90,46 @@
         ],
         "05": [
             {
-                "title": "State of UX 2026",
-                "url": "https://www.nngroup.com/articles/state-of-ux-2026",
-                "domain": "nngroup"
-            },
-            {
-                "title": "Guide to Japan SEO",
-                "url": "https://www.zodigital.jp/blog/guide-to-japan-seo",
-                "domain": "zodigital"
-            },
-            {
-                "title": "SEO | 2025 | The Web Almanac",
-                "url": "https://almanac.httparchive.org/en/2025/seo",
+                "title": "Performance | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/performance",
                 "domain": "httparchive"
             },
             {
-                "title": "The Web is Changing (1/5)",
-                "url": "https://j.cv/the-web-is-changing-1-5",
-                "domain": "j"
+                "title": "Lightweight Latency Measurement with Server-Timing ",
+                "url": "https://www.fastly.com/blog/lightweight-latency-measurement-with-server-timing",
+                "domain": "fastly"
+            },
+            {
+                "title": "Front-end Debugging Tools Handbook",
+                "url": "https://github.com/lala-hakobyan/front-end-debugging-handbook",
+                "domain": "github"
+            },
+            {
+                "title": "Designing DevTools: Efficient token usage in AI assistance",
+                "url": "https://developer.chrome.com/blog/designing-devtools-efficient-token-usage",
+                "domain": "chrome"
+            }
+        ],
+        "06": [
+            {
+                "title": "Performance | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/performance",
+                "domain": "httparchive"
+            },
+            {
+                "title": "Lightweight Latency Measurement with Server-Timing ",
+                "url": "https://www.fastly.com/blog/lightweight-latency-measurement-with-server-timing",
+                "domain": "fastly"
+            },
+            {
+                "title": "Front-end Debugging Tools Handbook",
+                "url": "https://github.com/lala-hakobyan/front-end-debugging-handbook",
+                "domain": "github"
+            },
+            {
+                "title": "Designing DevTools: Efficient token usage in AI assistance",
+                "url": "https://developer.chrome.com/blog/designing-devtools-efficient-token-usage",
+                "domain": "chrome"
             }
         ]
     }

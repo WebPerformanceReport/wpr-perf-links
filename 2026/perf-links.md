@@ -28,3 +28,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Guide to Japan SEO](https://www.zodigital.jp/blog/guide-to-japan-seo) [zodigital]
 - ⚡ [SEO | 2025 | The Web Almanac](https://almanac.httparchive.org/en/2025/seo) [httparchive]
 - ⚡ [The Web is Changing (1/5)](https://j.cv/the-web-is-changing-1-5) [j]
+
+## Week 05
+- ⚡ [Performance | 2025 | The Web Almanac](https://almanac.httparchive.org/en/2025/performance) [httparchive]
+- ⚡ [Lightweight Latency Measurement with Server-Timing ](https://www.fastly.com/blog/lightweight-latency-measurement-with-server-timing) [fastly]
+- ⚡ [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) [github]
+- ⚡ [Designing DevTools: Efficient token usage in AI assistance](https://developer.chrome.com/blog/designing-devtools-efficient-token-usage) [chrome]
