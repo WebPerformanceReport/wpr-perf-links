@@ -34,3 +34,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Lightweight Latency Measurement with Server-Timing ](https://www.fastly.com/blog/lightweight-latency-measurement-with-server-timing) [fastly]
 - ⚡ [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) [github]
 - ⚡ [Designing DevTools: Efficient token usage in AI assistance](https://developer.chrome.com/blog/designing-devtools-efficient-token-usage) [chrome]
+
+## Week 06
+- ⚡ [Announcing Web Quality Skills](https://skills.sh/addyosmani/web-quality-skills) [skills]
+- ⚡ [The state of real-world CSS usage, 2026 edition](https://www.projectwallace.com/the-css-selection/2026) [projectwallace]
+- ⚡ [Debugging with AI](https://www.developerway.com/posts/debugging-with-ai) [developerway]
+- ⚡ [Sitecore AI – Integrating PageSpeed](https://sitecorecenter.info/sitecoreai/sitecore-ai-integrating-pagespeed-into-pages) [sitecorecenter]

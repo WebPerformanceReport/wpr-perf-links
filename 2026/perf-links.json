@@ -112,24 +112,46 @@
         ],
         "06": [
             {
-                "title": "Performance | 2025 | The Web Almanac",
-                "url": "https://almanac.httparchive.org/en/2025/performance",
-                "domain": "httparchive"
+                "title": "Announcing Web Quality Skills",
+                "url": "https://skills.sh/addyosmani/web-quality-skills",
+                "domain": "skills"
             },
             {
-                "title": "Lightweight Latency Measurement with Server-Timing ",
-                "url": "https://www.fastly.com/blog/lightweight-latency-measurement-with-server-timing",
-                "domain": "fastly"
+                "title": "The state of real-world CSS usage, 2026 edition",
+                "url": "https://www.projectwallace.com/the-css-selection/2026",
+                "domain": "projectwallace"
             },
             {
-                "title": "Front-end Debugging Tools Handbook",
-                "url": "https://github.com/lala-hakobyan/front-end-debugging-handbook",
-                "domain": "github"
+                "title": "Debugging with AI",
+                "url": "https://www.developerway.com/posts/debugging-with-ai",
+                "domain": "developerway"
             },
             {
-                "title": "Designing DevTools: Efficient token usage in AI assistance",
-                "url": "https://developer.chrome.com/blog/designing-devtools-efficient-token-usage",
-                "domain": "chrome"
+                "title": "Sitecore AI – Integrating PageSpeed",
+                "url": "https://sitecorecenter.info/sitecoreai/sitecore-ai-integrating-pagespeed-into-pages",
+                "domain": "sitecorecenter"
+            }
+        ],
+        "07": [
+            {
+                "title": "Announcing Web Quality Skills",
+                "url": "https://skills.sh/addyosmani/web-quality-skills",
+                "domain": "skills"
+            },
+            {
+                "title": "The state of real-world CSS usage, 2026 edition",
+                "url": "https://www.projectwallace.com/the-css-selection/2026",
+                "domain": "projectwallace"
+            },
+            {
+                "title": "Debugging with AI",
+                "url": "https://www.developerway.com/posts/debugging-with-ai",
+                "domain": "developerway"
+            },
+            {
+                "title": "Sitecore AI – Integrating PageSpeed",
+                "url": "https://sitecorecenter.info/sitecoreai/sitecore-ai-integrating-pagespeed-into-pages",
+                "domain": "sitecorecenter"
             }
         ]
     }
