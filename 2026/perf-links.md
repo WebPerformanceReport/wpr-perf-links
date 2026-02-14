@@ -40,3 +40,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The state of real-world CSS usage, 2026 edition](https://www.projectwallace.com/the-css-selection/2026) [projectwallace]
 - ⚡ [Debugging with AI](https://www.developerway.com/posts/debugging-with-ai) [developerway]
 - ⚡ [Sitecore AI – Integrating PageSpeed](https://sitecorecenter.info/sitecoreai/sitecore-ai-integrating-pagespeed-into-pages) [sitecorecenter]
+
+## Week 07
+- ⚡ [WebMCP is available for early preview](https://developer.chrome.com/blog/webmcp-epp) [chrome]
+- ⚡ [Measuring web components performance](https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance) [igalia]
+- ⚡ [How Google & Shopify Are Bringing SPA Speed to MPA Websites](https://www.youtube.com/watch?v=YR2er3EiYnM) [youtube]
+- ⚡ [How to optimize JavaScript code with CSS](https://www.datadoghq.com/blog/javascript-css-optimization) [datadoghq]

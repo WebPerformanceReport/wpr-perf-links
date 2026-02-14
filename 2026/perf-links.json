@@ -134,24 +134,46 @@
         ],
         "07": [
             {
-                "title": "Announcing Web Quality Skills",
-                "url": "https://skills.sh/addyosmani/web-quality-skills",
-                "domain": "skills"
+                "title": "WebMCP is available for early preview",
+                "url": "https://developer.chrome.com/blog/webmcp-epp",
+                "domain": "chrome"
             },
             {
-                "title": "The state of real-world CSS usage, 2026 edition",
-                "url": "https://www.projectwallace.com/the-css-selection/2026",
-                "domain": "projectwallace"
+                "title": "Measuring web components performance",
+                "url": "https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance",
+                "domain": "igalia"
             },
             {
-                "title": "Debugging with AI",
-                "url": "https://www.developerway.com/posts/debugging-with-ai",
-                "domain": "developerway"
+                "title": "How Google & Shopify Are Bringing SPA Speed to MPA Websites",
+                "url": "https://www.youtube.com/watch?v=YR2er3EiYnM",
+                "domain": "youtube"
             },
             {
-                "title": "Sitecore AI – Integrating PageSpeed",
-                "url": "https://sitecorecenter.info/sitecoreai/sitecore-ai-integrating-pagespeed-into-pages",
-                "domain": "sitecorecenter"
+                "title": "How to optimize JavaScript code with CSS",
+                "url": "https://www.datadoghq.com/blog/javascript-css-optimization",
+                "domain": "datadoghq"
+            }
+        ],
+        "08": [
+            {
+                "title": "WebMCP is available for early preview",
+                "url": "https://developer.chrome.com/blog/webmcp-epp",
+                "domain": "chrome"
+            },
+            {
+                "title": "Measuring web components performance",
+                "url": "https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance",
+                "domain": "igalia"
+            },
+            {
+                "title": "How Google & Shopify Are Bringing SPA Speed to MPA Websites",
+                "url": "https://www.youtube.com/watch?v=YR2er3EiYnM",
+                "domain": "youtube"
+            },
+            {
+                "title": "How to optimize JavaScript code with CSS",
+                "url": "https://www.datadoghq.com/blog/javascript-css-optimization",
+                "domain": "datadoghq"
             }
         ]
     }
