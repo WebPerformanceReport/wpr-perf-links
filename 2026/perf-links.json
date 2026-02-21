@@ -156,24 +156,46 @@
         ],
         "08": [
             {
-                "title": "WebMCP is available for early preview",
-                "url": "https://developer.chrome.com/blog/webmcp-epp",
+                "title": "INP is Baseline Newly Available",
+                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
+                "domain": "web"
+            },
+            {
+                "title": "Performance-Optimized Video Embeds",
+                "url": "https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript",
+                "domain": "frontendmasters"
+            },
+            {
+                "title": "A better way to update your web apps",
+                "url": "https://developer.chrome.com/blog/improvements-to-web-app-updates",
                 "domain": "chrome"
             },
             {
-                "title": "Measuring web components performance",
-                "url": "https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance",
-                "domain": "igalia"
+                "title": "Ecommerce | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/ecommerce",
+                "domain": "httparchive"
+            }
+        ],
+        "09": [
+            {
+                "title": "INP is Baseline Newly Available",
+                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
+                "domain": "web"
             },
             {
-                "title": "How Google & Shopify Are Bringing SPA Speed to MPA Websites",
-                "url": "https://www.youtube.com/watch?v=YR2er3EiYnM",
-                "domain": "youtube"
+                "title": "Performance-Optimized Video Embeds",
+                "url": "https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript",
+                "domain": "frontendmasters"
             },
             {
-                "title": "How to optimize JavaScript code with CSS",
-                "url": "https://www.datadoghq.com/blog/javascript-css-optimization",
-                "domain": "datadoghq"
+                "title": "A better way to update your web apps",
+                "url": "https://developer.chrome.com/blog/improvements-to-web-app-updates",
+                "domain": "chrome"
+            },
+            {
+                "title": "Ecommerce | 2025 | The Web Almanac",
+                "url": "https://almanac.httparchive.org/en/2025/ecommerce",
+                "domain": "httparchive"
             }
         ]
     }

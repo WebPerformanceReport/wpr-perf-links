@@ -46,3 +46,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Measuring web components performance](https://blogs.igalia.com/dape/2026/02/10/container-timing-measuring-web-components-performance) [igalia]
 - ⚡ [How Google & Shopify Are Bringing SPA Speed to MPA Websites](https://www.youtube.com/watch?v=YR2er3EiYnM) [youtube]
 - ⚡ [How to optimize JavaScript code with CSS](https://www.datadoghq.com/blog/javascript-css-optimization) [datadoghq]
+
+## Week 08
+- ⚡ [INP is Baseline Newly Available](https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available) [web]
+- ⚡ [Performance-Optimized Video Embeds](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript) [frontendmasters]
+- ⚡ [A better way to update your web apps](https://developer.chrome.com/blog/improvements-to-web-app-updates) [chrome]
+- ⚡ [Ecommerce | 2025 | The Web Almanac](https://almanac.httparchive.org/en/2025/ecommerce) [httparchive]
