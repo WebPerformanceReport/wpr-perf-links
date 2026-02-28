@@ -52,3 +52,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Performance-Optimized Video Embeds](https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript) [frontendmasters]
 - ⚡ [A better way to update your web apps](https://developer.chrome.com/blog/improvements-to-web-app-updates) [chrome]
 - ⚡ [Ecommerce | 2025 | The Web Almanac](https://almanac.httparchive.org/en/2025/ecommerce) [httparchive]
+
+## Week 09
+- ⚡ [The browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox/) [aifoc]
+- ⚡ [Stop trying to rank for keywords](https://www.jonoalderson.com/conjecture/stop-trying-to-rank-for-keywords) [jonoalderson]
+- ⚡ [Standard HTML Video & Audio Lazy-loading is Coming!](https://scottjehl.com/posts/lazy-media) [scottjehl]
+- ⚡ [Investigating… a High LCP for Nike.com](https://aarontgrogg.com/blog/2026/02/25/investigating-a-high-lcp-for-nike-com) [aarontgrogg]

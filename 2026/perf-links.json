@@ -178,24 +178,46 @@
         ],
         "09": [
             {
-                "title": "INP is Baseline Newly Available",
-                "url": "https://web.dev/blog/lcp-and-inp-are-now-baseline-newly-available",
-                "domain": "web"
+                "title": "The browser is the sandbox",
+                "url": "https://aifoc.us/the-browser-is-the-sandbox/",
+                "domain": "aifoc"
             },
             {
-                "title": "Performance-Optimized Video Embeds",
-                "url": "https://frontendmasters.com/blog/performance-optimized-video-embeds-with-zero-javascript",
-                "domain": "frontendmasters"
+                "title": "Stop trying to rank for keywords",
+                "url": "https://www.jonoalderson.com/conjecture/stop-trying-to-rank-for-keywords",
+                "domain": "jonoalderson"
             },
             {
-                "title": "A better way to update your web apps",
-                "url": "https://developer.chrome.com/blog/improvements-to-web-app-updates",
-                "domain": "chrome"
+                "title": "Standard HTML Video & Audio Lazy-loading is Coming!",
+                "url": "https://scottjehl.com/posts/lazy-media",
+                "domain": "scottjehl"
             },
             {
-                "title": "Ecommerce | 2025 | The Web Almanac",
-                "url": "https://almanac.httparchive.org/en/2025/ecommerce",
-                "domain": "httparchive"
+                "title": "Investigating… a High LCP for Nike.com",
+                "url": "https://aarontgrogg.com/blog/2026/02/25/investigating-a-high-lcp-for-nike-com",
+                "domain": "aarontgrogg"
+            }
+        ],
+        "10": [
+            {
+                "title": "The browser is the sandbox",
+                "url": "https://aifoc.us/the-browser-is-the-sandbox/",
+                "domain": "aifoc"
+            },
+            {
+                "title": "Stop trying to rank for keywords",
+                "url": "https://www.jonoalderson.com/conjecture/stop-trying-to-rank-for-keywords",
+                "domain": "jonoalderson"
+            },
+            {
+                "title": "Standard HTML Video & Audio Lazy-loading is Coming!",
+                "url": "https://scottjehl.com/posts/lazy-media",
+                "domain": "scottjehl"
+            },
+            {
+                "title": "Investigating… a High LCP for Nike.com",
+                "url": "https://aarontgrogg.com/blog/2026/02/25/investigating-a-high-lcp-for-nike-com",
+                "domain": "aarontgrogg"
             }
         ]
     }
