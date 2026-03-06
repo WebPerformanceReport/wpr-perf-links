@@ -58,3 +58,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Stop trying to rank for keywords](https://www.jonoalderson.com/conjecture/stop-trying-to-rank-for-keywords) [jonoalderson]
 - ⚡ [Standard HTML Video & Audio Lazy-loading is Coming!](https://scottjehl.com/posts/lazy-media) [scottjehl]
 - ⚡ [Investigating… a High LCP for Nike.com](https://aarontgrogg.com/blog/2026/02/25/investigating-a-high-lcp-for-nike-com) [aarontgrogg]
+
+## Week 10
+- ⚡ [WebPerf Snippets and Agent SKILLs](https://joanleon.dev/en/webperf-snippets-agent-skills) [joanleon]
+- ⚡ [The UX Speed Museum](https://museum.uxspeed.dev) [uxspeed]
+- ⚡ [The GEO Playbook](https://www.shopify.com/enterprise/blog/generative-engine-optimization#) [shopify]
+- ⚡ [What Are Agent Skills?](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n) [dev]
