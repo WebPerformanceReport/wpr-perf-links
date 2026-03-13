@@ -222,23 +222,45 @@
         ],
         "11": [
             {
-                "title": "WebPerf Snippets and Agent SKILLs",
-                "url": "https://joanleon.dev/en/webperf-snippets-agent-skills",
-                "domain": "joanleon"
+                "title": "How adidas accelerated passkey adoption",
+                "url": "https://web.dev/case-studies/adidas-passkeys",
+                "domain": "web"
             },
             {
-                "title": "The UX Speed Museum",
-                "url": "https://museum.uxspeed.dev",
-                "domain": "uxspeed"
+                "title": "Introduction to the HTTP Archive",
+                "url": "https://youtu.be/LajtiYQHMlI?si=yIA0Zg0n7OWGr4Ln",
+                "domain": "performanceobserver"
             },
             {
-                "title": "The GEO Playbook",
-                "url": "https://www.shopify.com/enterprise/blog/generative-engine-optimization#",
-                "domain": "shopify"
+                "title": "Speed is the first competency test",
+                "url": "https://www.jonoalderson.com/conjecture/speed-is-the-first-competency-test",
+                "domain": "jonoalderson"
             },
             {
-                "title": "What Are Agent Skills?",
-                "url": "https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n",
+                "title": "Beyond Static Resources",
+                "url": "https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4",
+                "domain": "dev"
+            }
+        ],
+        "12": [
+            {
+                "title": "How adidas accelerated passkey adoption",
+                "url": "https://web.dev/case-studies/adidas-passkeys",
+                "domain": "web"
+            },
+            {
+                "title": "Introduction to the HTTP Archive",
+                "url": "https://youtu.be/LajtiYQHMlI?si=yIA0Zg0n7OWGr4Ln",
+                "domain": "performanceobserver"
+            },
+            {
+                "title": "Speed is the first competency test",
+                "url": "https://www.jonoalderson.com/conjecture/speed-is-the-first-competency-test",
+                "domain": "jonoalderson"
+            },
+            {
+                "title": "Beyond Static Resources",
+                "url": "https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4",
                 "domain": "dev"
             }
         ]

@@ -64,3 +64,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The UX Speed Museum](https://museum.uxspeed.dev) [uxspeed]
 - ⚡ [The GEO Playbook](https://www.shopify.com/enterprise/blog/generative-engine-optimization#) [shopify]
 - ⚡ [What Are Agent Skills?](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n) [dev]
+
+## Week 11
+- ⚡ [How adidas accelerated passkey adoption](https://web.dev/case-studies/adidas-passkeys) [web]
+- ⚡ [Introduction to the HTTP Archive](https://youtu.be/LajtiYQHMlI?si=yIA0Zg0n7OWGr4Ln) [performanceobserver]
+- ⚡ [Speed is the first competency test](https://www.jonoalderson.com/conjecture/speed-is-the-first-competency-test) [jonoalderson]
+- ⚡ [Beyond Static Resources](https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4) [dev]
