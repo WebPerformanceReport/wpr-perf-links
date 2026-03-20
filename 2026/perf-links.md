@@ -70,3 +70,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Introduction to the HTTP Archive](https://youtu.be/LajtiYQHMlI?si=yIA0Zg0n7OWGr4Ln) [performanceobserver]
 - ⚡ [Speed is the first competency test](https://www.jonoalderson.com/conjecture/speed-is-the-first-competency-test) [jonoalderson]
 - ⚡ [Beyond Static Resources](https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4) [dev]
+
+## Week 12
+- ⚡ [Telescope Test Agent](https://www.youtube.com/watch?v=_MQEwb-aRQQ) [nywebperformance]
+- ⚡ [Agentic SEO for e-commerce](https://www.fasterize.com/en/blog/agentic-seo-for-e-commerce-automating-technical-seo-with-ai) [fasterize]
+- ⚡ [The Hidden Costs Behind Modern Frontend Complexity](https://juntao.substack.com/p/the-hidden-costs-behind-modern-frontend) [juntao]
+- ⚡ [Web Performance Archetypes](https://www.ethangardner.com/posts/web-performance-archetypes/) [ethangardner]
