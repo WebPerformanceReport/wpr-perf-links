@@ -76,3 +76,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Agentic SEO for e-commerce](https://www.fasterize.com/en/blog/agentic-seo-for-e-commerce-automating-technical-seo-with-ai) [fasterize]
 - ⚡ [The Hidden Costs Behind Modern Frontend Complexity](https://juntao.substack.com/p/the-hidden-costs-behind-modern-frontend) [juntao]
 - ⚡ [Web Performance Archetypes](https://www.ethangardner.com/posts/web-performance-archetypes/) [ethangardner]
+
+## Week 13
+- ⚡ [Android Sets New Record for Mobile Web Performance](https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html) [chromium]
+- ⚡ [AI in Web Performance Audits](https://joanleon.dev/en/ai-web-performance-audits-scripts-reports) [joanleon]
+- ⚡ [AI Won't Save Your Development Process.](https://www.builder.io/blog/ai-wont-save-your-development-process) [builder]
+- ⚡ [Safari 26.4 is here!](https://webkit.org/blog/17862/webkit-features-for-safari-26-4/) [webkit]
