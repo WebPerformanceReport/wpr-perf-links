@@ -288,24 +288,46 @@
         ],
         "14": [
             {
-                "title": "Android Sets New Record for Mobile Web Performance",
-                "url": "https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html",
-                "domain": "chromium"
+                "title": "2026 Accessibility Report: Top 1M Home Pages",
+                "url": "https://webaim.org/projects/million/",
+                "domain": "webaim"
             },
             {
-                "title": "AI in Web Performance Audits",
-                "url": "https://joanleon.dev/en/ai-web-performance-audits-scripts-reports",
-                "domain": "joanleon"
+                "title": "Bringing Lazy Loading to HTML Video and Audio",
+                "url": "https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers",
+                "domain": "squarespace"
             },
             {
-                "title": "AI Won't Save Your Development Process.",
-                "url": "https://www.builder.io/blog/ai-wont-save-your-development-process",
-                "domain": "builder"
+                "title": "The spiritual successor to WordPress",
+                "url": "https://blog.cloudflare.com/emdash-wordpress",
+                "domain": "cloudflare"
             },
             {
-                "title": "Safari 26.4 is here! ",
-                "url": "https://webkit.org/blog/17862/webkit-features-for-safari-26-4/",
-                "domain": "webkit"
+                "title": "View Transitions Toolkit",
+                "url": "https://chrome.dev/view-transitions-toolkit/",
+                "domain": "chrome"
+            }
+        ],
+        "15": [
+            {
+                "title": "2026 Accessibility Report: Top 1M Home Pages",
+                "url": "https://webaim.org/projects/million/",
+                "domain": "webaim"
+            },
+            {
+                "title": "Bringing Lazy Loading to HTML Video and Audio",
+                "url": "https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers",
+                "domain": "squarespace"
+            },
+            {
+                "title": "The spiritual successor to WordPress",
+                "url": "https://blog.cloudflare.com/emdash-wordpress",
+                "domain": "cloudflare"
+            },
+            {
+                "title": "View Transitions Toolkit",
+                "url": "https://chrome.dev/view-transitions-toolkit/",
+                "domain": "chrome"
             }
         ]
     }

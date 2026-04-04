@@ -82,3 +82,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [AI in Web Performance Audits](https://joanleon.dev/en/ai-web-performance-audits-scripts-reports) [joanleon]
 - ⚡ [AI Won't Save Your Development Process.](https://www.builder.io/blog/ai-wont-save-your-development-process) [builder]
 - ⚡ [Safari 26.4 is here!](https://webkit.org/blog/17862/webkit-features-for-safari-26-4/) [webkit]
+
+## Week 14
+- ⚡ [2026 Accessibility Report: Top 1M Home Pages](https://webaim.org/projects/million/) [webaim]
+- ⚡ [Bringing Lazy Loading to HTML Video and Audio](https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers) [squarespace]
+- ⚡ [The spiritual successor to WordPress](https://blog.cloudflare.com/emdash-wordpress) [cloudflare]
+- ⚡ [View Transitions Toolkit](https://chrome.dev/view-transitions-toolkit/) [chrome]
