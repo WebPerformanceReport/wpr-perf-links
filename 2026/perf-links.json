@@ -310,23 +310,45 @@
         ],
         "15": [
             {
-                "title": "2026 Accessibility Report: Top 1M Home Pages",
-                "url": "https://webaim.org/projects/million/",
-                "domain": "webaim"
+                "title": "Under the hood of MDN's new frontend",
+                "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive",
+                "domain": "mozilla"
             },
             {
-                "title": "Bringing Lazy Loading to HTML Video and Audio",
-                "url": "https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers",
-                "domain": "squarespace"
+                "title": "Investigating… a High LCP for Wish.com",
+                "url": "https://aarontgrogg.com/blog/2026/04/08/investigating-a-high-lcp-for-wish-com",
+                "domain": "aarontgrogg"
             },
             {
-                "title": "The spiritual successor to WordPress",
-                "url": "https://blog.cloudflare.com/emdash-wordpress",
-                "domain": "cloudflare"
+                "title": "Web performance benchmark page: government websites!",
+                "url": "https://www.debugbear.com/benchmarks/governments",
+                "domain": "debugbear"
             },
             {
-                "title": "View Transitions Toolkit",
-                "url": "https://chrome.dev/view-transitions-toolkit/",
+                "title": " What's new in DevTools (Chrome 147)",
+                "url": "https://developer.chrome.com/blog/new-in-devtools-147",
+                "domain": "chrome"
+            }
+        ],
+        "16": [
+            {
+                "title": "Under the hood of MDN's new frontend",
+                "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive",
+                "domain": "mozilla"
+            },
+            {
+                "title": "Investigating… a High LCP for Wish.com",
+                "url": "https://aarontgrogg.com/blog/2026/04/08/investigating-a-high-lcp-for-wish-com",
+                "domain": "aarontgrogg"
+            },
+            {
+                "title": "Web performance benchmark page: government websites!",
+                "url": "https://www.debugbear.com/benchmarks/governments",
+                "domain": "debugbear"
+            },
+            {
+                "title": " What's new in DevTools (Chrome 147)",
+                "url": "https://developer.chrome.com/blog/new-in-devtools-147",
                 "domain": "chrome"
             }
         ]

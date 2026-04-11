@@ -88,3 +88,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Bringing Lazy Loading to HTML Video and Audio](https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers) [squarespace]
 - ⚡ [The spiritual successor to WordPress](https://blog.cloudflare.com/emdash-wordpress) [cloudflare]
 - ⚡ [View Transitions Toolkit](https://chrome.dev/view-transitions-toolkit/) [chrome]
+
+## Week 15
+- ⚡ [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive) [mozilla]
+- ⚡ [Investigating… a High LCP for Wish.com](https://aarontgrogg.com/blog/2026/04/08/investigating-a-high-lcp-for-wish-com) [aarontgrogg]
+- ⚡ [Web performance benchmark page: government websites!](https://www.debugbear.com/benchmarks/governments) [debugbear]
+- ⚡ [ What's new in DevTools (Chrome 147)](https://developer.chrome.com/blog/new-in-devtools-147) [chrome]
