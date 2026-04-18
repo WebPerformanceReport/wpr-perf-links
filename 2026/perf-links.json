@@ -325,31 +325,53 @@
                 "domain": "debugbear"
             },
             {
-                "title": " What's new in DevTools (Chrome 147)",
+                "title": "What's new in DevTools (Chrome 147)",
                 "url": "https://developer.chrome.com/blog/new-in-devtools-147",
                 "domain": "chrome"
             }
         ],
         "16": [
             {
-                "title": "Under the hood of MDN's new frontend",
-                "url": "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive",
-                "domain": "mozilla"
+                "title": "Introducing Waterfall Tools",
+                "url": "https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools",
+                "domain": "patrickmeenan"
             },
             {
-                "title": "Investigating… a High LCP for Wish.com",
-                "url": "https://aarontgrogg.com/blog/2026/04/08/investigating-a-high-lcp-for-wish-com",
-                "domain": "aarontgrogg"
+                "title": "Why your UI feels slow",
+                "url": "https://amandavilela.me/blog/your-page-is-fast-but-is-it-responsive-meet-inp",
+                "domain": "amandavilela"
             },
             {
-                "title": "Web performance benchmark page: government websites!",
-                "url": "https://www.debugbear.com/benchmarks/governments",
-                "domain": "debugbear"
+                "title": "HTTP Archive Tech Report via MCP",
+                "url": "https://maxostapenko.com/posts/httparchive-mcp",
+                "domain": "maxostapenko"
             },
             {
-                "title": " What's new in DevTools (Chrome 147)",
-                "url": "https://developer.chrome.com/blog/new-in-devtools-147",
-                "domain": "chrome"
+                "title": "How we pick translation models for Framer",
+                "url": "https://www.framer.com/blog/how-we-pick-translation-models-for-framer",
+                "domain": "framer"
+            }
+        ],
+        "17": [
+            {
+                "title": "Introducing Waterfall Tools",
+                "url": "https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools",
+                "domain": "patrickmeenan"
+            },
+            {
+                "title": "Why your UI feels slow",
+                "url": "https://amandavilela.me/blog/your-page-is-fast-but-is-it-responsive-meet-inp",
+                "domain": "amandavilela"
+            },
+            {
+                "title": "HTTP Archive Tech Report via MCP",
+                "url": "https://maxostapenko.com/posts/httparchive-mcp",
+                "domain": "maxostapenko"
+            },
+            {
+                "title": "How we pick translation models for Framer",
+                "url": "https://www.framer.com/blog/how-we-pick-translation-models-for-framer",
+                "domain": "framer"
             }
         ]
     }

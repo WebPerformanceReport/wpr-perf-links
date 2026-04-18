@@ -94,3 +94,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Investigating… a High LCP for Wish.com](https://aarontgrogg.com/blog/2026/04/08/investigating-a-high-lcp-for-wish-com) [aarontgrogg]
 - ⚡ [Web performance benchmark page: government websites!](https://www.debugbear.com/benchmarks/governments) [debugbear]
 - ⚡ [ What's new in DevTools (Chrome 147)](https://developer.chrome.com/blog/new-in-devtools-147) [chrome]
+
+## Week 16
+- ⚡ [Introducing Waterfall Tools](https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools) [patrickmeenan]
+- ⚡ [Why your UI feels slow](https://amandavilela.me/blog/your-page-is-fast-but-is-it-responsive-meet-inp) [amandavilela]
+- ⚡ [HTTP Archive Tech Report via MCP](https://maxostapenko.com/posts/httparchive-mcp) [maxostapenko]
+- ⚡ [How we pick translation models for Framer](https://www.framer.com/blog/how-we-pick-translation-models-for-framer) [framer]
