@@ -354,24 +354,46 @@
         ],
         "17": [
             {
-                "title": "Introducing Waterfall Tools",
-                "url": "https://blog.patrickmeenan.com/2026/04/12/introducing-waterfall-tools",
-                "domain": "patrickmeenan"
+                "title": "Making your site visible to LLMs",
+                "url": "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
+                "domain": "evilmartians"
             },
             {
-                "title": "Why your UI feels slow",
-                "url": "https://amandavilela.me/blog/your-page-is-fast-but-is-it-responsive-meet-inp",
-                "domain": "amandavilela"
+                "title": "Universal Commerce Protocol Tech Council",
+                "url": "https://www.newsfilecorp.com/release/294133/Amazon-Meta-Microsoft-Salesforce-and-Stripe-Join-the-Universal-Commerce-Protocol-Tech-Council",
+                "domain": "newsfilecorp"
             },
             {
-                "title": "HTTP Archive Tech Report via MCP",
-                "url": "https://maxostapenko.com/posts/httparchive-mcp",
-                "domain": "maxostapenko"
+                "title": "Localization support for web app manifests",
+                "url": "https://developer.chrome.com/blog/manifest-localization",
+                "domain": "chrome"
             },
             {
-                "title": "How we pick translation models for Framer",
-                "url": "https://www.framer.com/blog/how-we-pick-translation-models-for-framer",
-                "domain": "framer"
+                "title": "The March data for Shopify theme performance is now live",
+                "url": "https://themevitals.com/newsletter/2026-04/",
+                "domain": "themevitals"
+            }
+        ],
+        "18": [
+            {
+                "title": "Making your site visible to LLMs",
+                "url": "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
+                "domain": "evilmartians"
+            },
+            {
+                "title": "Universal Commerce Protocol Tech Council",
+                "url": "https://www.newsfilecorp.com/release/294133/Amazon-Meta-Microsoft-Salesforce-and-Stripe-Join-the-Universal-Commerce-Protocol-Tech-Council",
+                "domain": "newsfilecorp"
+            },
+            {
+                "title": "Localization support for web app manifests",
+                "url": "https://developer.chrome.com/blog/manifest-localization",
+                "domain": "chrome"
+            },
+            {
+                "title": "The March data for Shopify theme performance is now live",
+                "url": "https://themevitals.com/newsletter/2026-04/",
+                "domain": "themevitals"
             }
         ]
     }

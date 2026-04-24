@@ -100,3 +100,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Why your UI feels slow](https://amandavilela.me/blog/your-page-is-fast-but-is-it-responsive-meet-inp) [amandavilela]
 - ⚡ [HTTP Archive Tech Report via MCP](https://maxostapenko.com/posts/httparchive-mcp) [maxostapenko]
 - ⚡ [How we pick translation models for Framer](https://www.framer.com/blog/how-we-pick-translation-models-for-framer) [framer]
+
+## Week 17
+- ⚡ [Making your site visible to LLMs](https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms) [evilmartians]
+- ⚡ [Universal Commerce Protocol Tech Council](https://www.newsfilecorp.com/release/294133/Amazon-Meta-Microsoft-Salesforce-and-Stripe-Join-the-Universal-Commerce-Protocol-Tech-Council) [newsfilecorp]
+- ⚡ [Localization support for web app manifests](https://developer.chrome.com/blog/manifest-localization) [chrome]
+- ⚡ [The March data for Shopify theme performance is now live](https://themevitals.com/newsletter/2026-04/) [themevitals]
