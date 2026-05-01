@@ -106,3 +106,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Universal Commerce Protocol Tech Council](https://www.newsfilecorp.com/release/294133/Amazon-Meta-Microsoft-Salesforce-and-Stripe-Join-the-Universal-Commerce-Protocol-Tech-Council) [newsfilecorp]
 - ⚡ [Localization support for web app manifests](https://developer.chrome.com/blog/manifest-localization) [chrome]
 - ⚡ [The March data for Shopify theme performance is now live](https://themevitals.com/newsletter/2026-04/) [themevitals]
+
+## Week 18
+- ⚡ [Store Speed and Conversion](https://www.shopify.com/enterprise/blog/store-speed-conversion) [shopify]
+- ⚡ [Prepare your Single Page Apps (SPAs)](https://developer.chrome.com/blog/final-soft-navigations-origin-trial) [chrome]
+- ⚡ [SEO is Filed Under Marketing. Sitting in the wrong room](https://theinference.io/p/filed-under-marketing-sitting-in) [theinference]
+- ⚡ [Orchestration without hallucination](https://slides.com/joanleon/webperf-snippets-meets-ai-agents) [slides]

@@ -376,24 +376,46 @@
         ],
         "18": [
             {
-                "title": "Making your site visible to LLMs",
-                "url": "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms",
-                "domain": "evilmartians"
+                "title": "Store Speed and Conversion",
+                "url": "https://www.shopify.com/enterprise/blog/store-speed-conversion",
+                "domain": "shopify"
             },
             {
-                "title": "Universal Commerce Protocol Tech Council",
-                "url": "https://www.newsfilecorp.com/release/294133/Amazon-Meta-Microsoft-Salesforce-and-Stripe-Join-the-Universal-Commerce-Protocol-Tech-Council",
-                "domain": "newsfilecorp"
-            },
-            {
-                "title": "Localization support for web app manifests",
-                "url": "https://developer.chrome.com/blog/manifest-localization",
+                "title": "Prepare your Single Page Apps (SPAs)",
+                "url": "https://developer.chrome.com/blog/final-soft-navigations-origin-trial",
                 "domain": "chrome"
             },
             {
-                "title": "The March data for Shopify theme performance is now live",
-                "url": "https://themevitals.com/newsletter/2026-04/",
-                "domain": "themevitals"
+                "title": "SEO is Filed Under Marketing. Sitting in the wrong room",
+                "url": "https://theinference.io/p/filed-under-marketing-sitting-in",
+                "domain": "theinference"
+            },
+            {
+                "title": "Orchestration without hallucination",
+                "url": "https://slides.com/joanleon/webperf-snippets-meets-ai-agents",
+                "domain": "slides"
+            }
+        ],
+        "19": [
+            {
+                "title": "Store Speed and Conversion",
+                "url": "https://www.shopify.com/enterprise/blog/store-speed-conversion",
+                "domain": "shopify"
+            },
+            {
+                "title": "Prepare your Single Page Apps (SPAs)",
+                "url": "https://developer.chrome.com/blog/final-soft-navigations-origin-trial",
+                "domain": "chrome"
+            },
+            {
+                "title": "SEO is Filed Under Marketing. Sitting in the wrong room",
+                "url": "https://theinference.io/p/filed-under-marketing-sitting-in",
+                "domain": "theinference"
+            },
+            {
+                "title": "Orchestration without hallucination",
+                "url": "https://slides.com/joanleon/webperf-snippets-meets-ai-agents",
+                "domain": "slides"
             }
         ]
     }
