@@ -398,24 +398,46 @@
         ],
         "19": [
             {
-                "title": "Store Speed and Conversion",
-                "url": "https://www.shopify.com/enterprise/blog/store-speed-conversion",
-                "domain": "shopify"
+                "title": "Build agent-friendly websites",
+                "url": "https://web.dev/articles/ai-agent-site-ux",
+                "domain": "web"
             },
             {
-                "title": "Prepare your Single Page Apps (SPAs)",
-                "url": "https://developer.chrome.com/blog/final-soft-navigations-origin-trial",
-                "domain": "chrome"
+                "title": "Hardening Firefox with Claude Mythos",
+                "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox",
+                "domain": "mozilla"
             },
             {
-                "title": "SEO is Filed Under Marketing. Sitting in the wrong room",
-                "url": "https://theinference.io/p/filed-under-marketing-sitting-in",
-                "domain": "theinference"
+                "title": "Google to no longer support FAQ rich results",
+                "url": "https://searchengineland.com/google-to-no-longer-support-faq-rich-results-476957",
+                "domain": "searchengineland"
             },
             {
-                "title": "Orchestration without hallucination",
-                "url": "https://slides.com/joanleon/webperf-snippets-meets-ai-agents",
-                "domain": "slides"
+                "title": "Accessibility Best Practices for Your Project",
+                "url": "https://opensource.guide/accessibility-best-practices-for-your-project",
+                "domain": "opensource"
+            }
+        ],
+        "20": [
+            {
+                "title": "Build agent-friendly websites",
+                "url": "https://web.dev/articles/ai-agent-site-ux",
+                "domain": "web"
+            },
+            {
+                "title": "Hardening Firefox with Claude Mythos",
+                "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox",
+                "domain": "mozilla"
+            },
+            {
+                "title": "Google to no longer support FAQ rich results",
+                "url": "https://searchengineland.com/google-to-no-longer-support-faq-rich-results-476957",
+                "domain": "searchengineland"
+            },
+            {
+                "title": "Accessibility Best Practices for Your Project",
+                "url": "https://opensource.guide/accessibility-best-practices-for-your-project",
+                "domain": "opensource"
             }
         ]
     }

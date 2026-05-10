@@ -112,3 +112,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Prepare your Single Page Apps (SPAs)](https://developer.chrome.com/blog/final-soft-navigations-origin-trial) [chrome]
 - ⚡ [SEO is Filed Under Marketing. Sitting in the wrong room](https://theinference.io/p/filed-under-marketing-sitting-in) [theinference]
 - ⚡ [Orchestration without hallucination](https://slides.com/joanleon/webperf-snippets-meets-ai-agents) [slides]
+
+## Week 19
+- ⚡ [Build agent-friendly websites](https://web.dev/articles/ai-agent-site-ux) [web]
+- ⚡ [Hardening Firefox with Claude Mythos](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox) [mozilla]
+- ⚡ [Google to no longer support FAQ rich results](https://searchengineland.com/google-to-no-longer-support-faq-rich-results-476957) [searchengineland]
+- ⚡ [Accessibility Best Practices for Your Project](https://opensource.guide/accessibility-best-practices-for-your-project) [opensource]
