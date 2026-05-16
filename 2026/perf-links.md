@@ -118,3 +118,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Hardening Firefox with Claude Mythos](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox) [mozilla]
 - ⚡ [Google to no longer support FAQ rich results](https://searchengineland.com/google-to-no-longer-support-faq-rich-results-476957) [searchengineland]
 - ⚡ [Accessibility Best Practices for Your Project](https://opensource.guide/accessibility-best-practices-for-your-project) [opensource]
+
+## Week 20
+- ⚡ [How adidas accelerated passkey adoption](https://web.dev/case-studies/adidas-passkeys) [web]
+- ⚡ [How to optimize your content for generative AI ](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) [google]
+- ⚡ [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) [chrome]
+- ⚡ [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) [denodell]

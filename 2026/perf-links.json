@@ -420,24 +420,46 @@
         ],
         "20": [
             {
-                "title": "Build agent-friendly websites",
-                "url": "https://web.dev/articles/ai-agent-site-ux",
+                "title": "How adidas accelerated passkey adoption",
+                "url": "https://web.dev/case-studies/adidas-passkeys",
                 "domain": "web"
             },
             {
-                "title": "Hardening Firefox with Claude Mythos",
-                "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox",
-                "domain": "mozilla"
+                "title": "How to optimize your content for generative AI ",
+                "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+                "domain": "google"
             },
             {
-                "title": "Google to no longer support FAQ rich results",
-                "url": "https://searchengineland.com/google-to-no-longer-support-faq-rich-results-476957",
-                "domain": "searchengineland"
+                "title": "Lighthouse agentic browsing scoring",
+                "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+                "domain": "chrome"
             },
             {
-                "title": "Accessibility Best Practices for Your Project",
-                "url": "https://opensource.guide/accessibility-best-practices-for-your-project",
-                "domain": "opensource"
+                "title": "Browsers Treat Big Sites Differently",
+                "url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
+                "domain": "denodell"
+            }
+        ],
+        "21": [
+            {
+                "title": "How adidas accelerated passkey adoption",
+                "url": "https://web.dev/case-studies/adidas-passkeys",
+                "domain": "web"
+            },
+            {
+                "title": "How to optimize your content for generative AI ",
+                "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+                "domain": "google"
+            },
+            {
+                "title": "Lighthouse agentic browsing scoring",
+                "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+                "domain": "chrome"
+            },
+            {
+                "title": "Browsers Treat Big Sites Differently",
+                "url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
+                "domain": "denodell"
             }
         ]
     }
