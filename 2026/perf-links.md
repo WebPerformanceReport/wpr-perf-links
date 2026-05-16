@@ -120,7 +120,7 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Accessibility Best Practices for Your Project](https://opensource.guide/accessibility-best-practices-for-your-project) [opensource]
 
 ## Week 20
-- ⚡ [How adidas accelerated passkey adoption](https://web.dev/case-studies/adidas-passkeys) [web]
+- ⚡ [FAQ schema died twice](https://joost.blog/faq-schema-cycle/) [joost]
 - ⚡ [How to optimize your content for generative AI ](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) [google]
-- ⚡ [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) [chrome]
+- ⚡ [Install web apps with the new HTML element](https://developer.chrome.com/blog/install-element-ot) [chrome]
 - ⚡ [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) [denodell]
