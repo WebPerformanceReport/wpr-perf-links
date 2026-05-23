@@ -124,3 +124,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [How to optimize your content for generative AI](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) [google]
 - ⚡ [Install web apps with the new HTML element](https://developer.chrome.com/blog/install-element-ot) [chrome]
 - ⚡ [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently) [denodell]
+
+## Week 21
+- ⚡ [Forbes' Accessibility List 2026](https://www.forbes.com/lists/accessibility) [forbes]
+- ⚡ [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance) [googlechrome]
+- ⚡ [Vivaldi: our biggest design overhaul, ever](https://vivaldi.com/blog/vivaldi-on-desktop-8-0) [vivaldi]
+- ⚡ [Unlock modern web capabilities](https://www.youtube.com/watch?v=bo3i0FzDUYo) [youtube]

@@ -442,24 +442,46 @@
         ],
         "21": [
             {
-                "title": "FAQ schema died twice",
-                "url": "https://joost.blog/faq-schema-cycle",
-                "domain": "joost"
+                "title": "Forbes' Accessibility List 2026",
+                "url": "https://www.forbes.com/lists/accessibility",
+                "domain": "forbes"
             },
             {
-                "title": "How to optimize your content for generative AI",
-                "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
-                "domain": "google"
+                "title": "Modern Web Guidance",
+                "url": "https://github.com/GoogleChrome/modern-web-guidance",
+                "domain": "googlechrome"
             },
             {
-                "title": "Install web apps with the new HTML element",
-                "url": "https://developer.chrome.com/blog/install-element-ot",
-                "domain": "chrome"
+                "title": "Vivaldi: our biggest design overhaul, ever",
+                "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0",
+                "domain": "vivaldi"
             },
             {
-                "title": "Browsers Treat Big Sites Differently",
-                "url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
-                "domain": "denodell"
+                "title": "Unlock modern web capabilities",
+                "url": "https://www.youtube.com/watch?v=bo3i0FzDUYo",
+                "domain": "youtube"
+            }
+        ],
+        "22": [
+            {
+                "title": "Forbes' Accessibility List 2026",
+                "url": "https://www.forbes.com/lists/accessibility",
+                "domain": "forbes"
+            },
+            {
+                "title": "Modern Web Guidance",
+                "url": "https://github.com/GoogleChrome/modern-web-guidance",
+                "domain": "googlechrome"
+            },
+            {
+                "title": "Vivaldi: our biggest design overhaul, ever",
+                "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0",
+                "domain": "vivaldi"
+            },
+            {
+                "title": "Unlock modern web capabilities",
+                "url": "https://www.youtube.com/watch?v=bo3i0FzDUYo",
+                "domain": "youtube"
             }
         ]
     }
