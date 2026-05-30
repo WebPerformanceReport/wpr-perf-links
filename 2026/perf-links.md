@@ -130,3 +130,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance) [googlechrome]
 - ⚡ [Vivaldi: our biggest design overhaul, ever](https://vivaldi.com/blog/vivaldi-on-desktop-8-0) [vivaldi]
 - ⚡ [Unlock modern web capabilities](https://www.youtube.com/watch?v=bo3i0FzDUYo) [youtube]
+
+## Week 22
+- ⚡ [Zero Trust Implementation Guidelines](https://www.nsa.gov/Cybersecurity/ZIG/) [nsa]
+- ⚡ [The Website Specification](https://specification.website/) [specification]
+- ⚡ [Agent Skills](https://www.oreilly.com/radar/agent-skills) [oreilly]
+- ⚡ [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) [chrome]

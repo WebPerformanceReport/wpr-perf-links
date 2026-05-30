@@ -464,24 +464,46 @@
         ],
         "22": [
             {
-                "title": "Forbes' Accessibility List 2026",
-                "url": "https://www.forbes.com/lists/accessibility",
-                "domain": "forbes"
+                "title": "Zero Trust Implementation Guidelines",
+                "url": "https://www.nsa.gov/Cybersecurity/ZIG/",
+                "domain": "nsa"
             },
             {
-                "title": "Modern Web Guidance",
-                "url": "https://github.com/GoogleChrome/modern-web-guidance",
-                "domain": "googlechrome"
+                "title": "The Website Specification",
+                "url": "https://specification.website/",
+                "domain": "specification"
             },
             {
-                "title": "Vivaldi: our biggest design overhaul, ever",
-                "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0",
-                "domain": "vivaldi"
+                "title": "Agent Skills",
+                "url": "https://www.oreilly.com/radar/agent-skills",
+                "domain": "oreilly"
             },
             {
-                "title": "Unlock modern web capabilities",
-                "url": "https://www.youtube.com/watch?v=bo3i0FzDUYo",
-                "domain": "youtube"
+                "title": "Lighthouse agentic browsing scoring",
+                "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+                "domain": "chrome"
+            }
+        ],
+        "23": [
+            {
+                "title": "Zero Trust Implementation Guidelines",
+                "url": "https://www.nsa.gov/Cybersecurity/ZIG/",
+                "domain": "nsa"
+            },
+            {
+                "title": "The Website Specification",
+                "url": "https://specification.website/",
+                "domain": "specification"
+            },
+            {
+                "title": "Agent Skills",
+                "url": "https://www.oreilly.com/radar/agent-skills",
+                "domain": "oreilly"
+            },
+            {
+                "title": "Lighthouse agentic browsing scoring",
+                "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
+                "domain": "chrome"
             }
         ]
     }
