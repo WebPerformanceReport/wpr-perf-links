@@ -486,24 +486,46 @@
         ],
         "23": [
             {
-                "title": "Zero Trust Implementation Guidelines",
-                "url": "https://www.nsa.gov/Cybersecurity/ZIG/",
-                "domain": "nsa"
+                "title": " The State of CSS survey is now out!",
+                "url": "https://stateofcss.com/en-US",
+                "domain": "stateofcss"
             },
             {
-                "title": "The Website Specification",
-                "url": "https://specification.website/",
-                "domain": "specification"
+                "title": "Search Generative AI performance reports",
+                "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+                "domain": "google"
             },
             {
-                "title": "Agent Skills",
-                "url": "https://www.oreilly.com/radar/agent-skills",
-                "domain": "oreilly"
+                "title": "Schema.org Usage Statistics Dataset",
+                "url": "https://blog.schema.org/2026/06/04/announcing-the-schema-org-usage-statistics-dataset/",
+                "domain": "schema"
             },
             {
-                "title": "Lighthouse agentic browsing scoring",
-                "url": "https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring",
-                "domain": "chrome"
+                "title": "The future of the web is weirdly human",
+                "url": "https://www.jonoalderson.com/conjecture/weirdly-human/",
+                "domain": "jonoalderson"
+            }
+        ],
+        "24": [
+            {
+                "title": " The State of CSS survey is now out!",
+                "url": "https://stateofcss.com/en-US",
+                "domain": "stateofcss"
+            },
+            {
+                "title": "Search Generative AI performance reports",
+                "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+                "domain": "google"
+            },
+            {
+                "title": "Schema.org Usage Statistics Dataset",
+                "url": "https://blog.schema.org/2026/06/04/announcing-the-schema-org-usage-statistics-dataset/",
+                "domain": "schema"
+            },
+            {
+                "title": "The future of the web is weirdly human",
+                "url": "https://www.jonoalderson.com/conjecture/weirdly-human/",
+                "domain": "jonoalderson"
             }
         ]
     }

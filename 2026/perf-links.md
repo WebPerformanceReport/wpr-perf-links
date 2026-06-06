@@ -136,3 +136,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The Website Specification](https://specification.website/) [specification]
 - ⚡ [Agent Skills](https://www.oreilly.com/radar/agent-skills) [oreilly]
 - ⚡ [Lighthouse agentic browsing scoring](https://developer.chrome.com/docs/lighthouse/agentic-browsing/scoring) [chrome]
+
+## Week 23
+- ⚡ [The State of CSS survey is now out!](https://stateofcss.com/en-US) [stateofcss]
+- ⚡ [Search Generative AI performance reports](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) [google]
+- ⚡ [Schema.org Usage Statistics Dataset](https://blog.schema.org/2026/06/04/announcing-the-schema-org-usage-statistics-dataset/) [schema]
+- ⚡ [The future of the web is weirdly human](https://www.jonoalderson.com/conjecture/weirdly-human/) [jonoalderson]
