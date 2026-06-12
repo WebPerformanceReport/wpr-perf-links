@@ -486,7 +486,7 @@
         ],
         "23": [
             {
-                "title": " The State of CSS survey is now out!",
+                "title": "The State of CSS survey is now out!",
                 "url": "https://stateofcss.com/en-US",
                 "domain": "stateofcss"
             },
@@ -508,24 +508,46 @@
         ],
         "24": [
             {
-                "title": " The State of CSS survey is now out!",
-                "url": "https://stateofcss.com/en-US",
-                "domain": "stateofcss"
+                "title": "HTML-first site doubled our users",
+                "url": "https://mohkohn.co.uk/writing/html-first/",
+                "domain": "mohkohn"
             },
             {
-                "title": "Search Generative AI performance reports",
-                "url": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
-                "domain": "google"
+                "title": "AI Doesn't Write Good Software",
+                "url": "https://adrianferrera.dev/en/blog/ai-does-not-write-good-code",
+                "domain": "adrianferrera"
             },
             {
-                "title": "Schema.org Usage Statistics Dataset",
-                "url": "https://blog.schema.org/2026/06/04/announcing-the-schema-org-usage-statistics-dataset/",
-                "domain": "schema"
+                "title": "Web performance measurement is necessary",
+                "url": "https://www.linkedin.com/pulse/web-performance-measurement-necessary-excuse-fix-things-tammy-everts-bk1df/",
+                "domain": "linkedin"
             },
             {
-                "title": "The future of the web is weirdly human",
-                "url": "https://www.jonoalderson.com/conjecture/weirdly-human/",
-                "domain": "jonoalderson"
+                "title": "Why are we not using Service Workers?",
+                "url": "https://neciudan.dev/why-are-we-not-using-service-workers",
+                "domain": "neciudan"
+            }
+        ],
+        "25": [
+            {
+                "title": "HTML-first site doubled our users",
+                "url": "https://mohkohn.co.uk/writing/html-first/",
+                "domain": "mohkohn"
+            },
+            {
+                "title": "AI Doesn't Write Good Software",
+                "url": "https://adrianferrera.dev/en/blog/ai-does-not-write-good-code",
+                "domain": "adrianferrera"
+            },
+            {
+                "title": "Web performance measurement is necessary",
+                "url": "https://www.linkedin.com/pulse/web-performance-measurement-necessary-excuse-fix-things-tammy-everts-bk1df/",
+                "domain": "linkedin"
+            },
+            {
+                "title": "Why are we not using Service Workers?",
+                "url": "https://neciudan.dev/why-are-we-not-using-service-workers",
+                "domain": "neciudan"
             }
         ]
     }

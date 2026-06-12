@@ -142,3 +142,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Search Generative AI performance reports](https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports) [google]
 - ⚡ [Schema.org Usage Statistics Dataset](https://blog.schema.org/2026/06/04/announcing-the-schema-org-usage-statistics-dataset/) [schema]
 - ⚡ [The future of the web is weirdly human](https://www.jonoalderson.com/conjecture/weirdly-human/) [jonoalderson]
+
+## Week 24
+- ⚡ [HTML-first site doubled our users](https://mohkohn.co.uk/writing/html-first/) [mohkohn]
+- ⚡ [AI Doesn't Write Good Software](https://adrianferrera.dev/en/blog/ai-does-not-write-good-code) [adrianferrera]
+- ⚡ [Web performance measurement is necessary](https://www.linkedin.com/pulse/web-performance-measurement-necessary-excuse-fix-things-tammy-everts-bk1df/) [linkedin]
+- ⚡ [Why are we not using Service Workers?](https://neciudan.dev/why-are-we-not-using-service-workers) [neciudan]
