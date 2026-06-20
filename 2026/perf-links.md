@@ -148,3 +148,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [AI Doesn't Write Good Software](https://adrianferrera.dev/en/blog/ai-does-not-write-good-code) [adrianferrera]
 - ⚡ [Web performance measurement is necessary](https://www.linkedin.com/pulse/web-performance-measurement-necessary-excuse-fix-things-tammy-everts-bk1df/) [linkedin]
 - ⚡ [Why are we not using Service Workers?](https://neciudan.dev/why-are-we-not-using-service-workers) [neciudan]
+
+## Week 25
+- ⚡ [Declarative partial updates](https://jadjoubran.io/blog/declarative-partial-updates) [jadjoubran]
+- ⚡ [The death of Web UI?](https://utilitybend.com/blog/the-death-of-web-ui-bollocks-geeking-out-on-a-better-web-and-trying-to-make-a-difference) [utilitybend]
+- ⚡ [HTML The Standard For SEO](https://www.seroundtable.com/google-html-vs-markdown-41508.html) [seroundtable]
+- ⚡ [We Cut Slow Responses by 80%](https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da) [dev]

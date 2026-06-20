@@ -530,24 +530,46 @@
         ],
         "25": [
             {
-                "title": "HTML-first site doubled our users",
-                "url": "https://mohkohn.co.uk/writing/html-first/",
-                "domain": "mohkohn"
+                "title": "Declarative partial updates",
+                "url": "https://jadjoubran.io/blog/declarative-partial-updates",
+                "domain": "jadjoubran"
             },
             {
-                "title": "AI Doesn't Write Good Software",
-                "url": "https://adrianferrera.dev/en/blog/ai-does-not-write-good-code",
-                "domain": "adrianferrera"
+                "title": "The death of Web UI?",
+                "url": "https://utilitybend.com/blog/the-death-of-web-ui-bollocks-geeking-out-on-a-better-web-and-trying-to-make-a-difference",
+                "domain": "utilitybend"
             },
             {
-                "title": "Web performance measurement is necessary",
-                "url": "https://www.linkedin.com/pulse/web-performance-measurement-necessary-excuse-fix-things-tammy-everts-bk1df/",
-                "domain": "linkedin"
+                "title": "HTML The Standard For SEO",
+                "url": "https://www.seroundtable.com/google-html-vs-markdown-41508.html",
+                "domain": "seroundtable"
             },
             {
-                "title": "Why are we not using Service Workers?",
-                "url": "https://neciudan.dev/why-are-we-not-using-service-workers",
-                "domain": "neciudan"
+                "title": "We Cut Slow Responses by 80%",
+                "url": "https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da",
+                "domain": "dev"
+            }
+        ],
+        "26": [
+            {
+                "title": "Declarative partial updates",
+                "url": "https://jadjoubran.io/blog/declarative-partial-updates",
+                "domain": "jadjoubran"
+            },
+            {
+                "title": "The death of Web UI?",
+                "url": "https://utilitybend.com/blog/the-death-of-web-ui-bollocks-geeking-out-on-a-better-web-and-trying-to-make-a-difference",
+                "domain": "utilitybend"
+            },
+            {
+                "title": "HTML The Standard For SEO",
+                "url": "https://www.seroundtable.com/google-html-vs-markdown-41508.html",
+                "domain": "seroundtable"
+            },
+            {
+                "title": "We Cut Slow Responses by 80%",
+                "url": "https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da",
+                "domain": "dev"
             }
         ]
     }
