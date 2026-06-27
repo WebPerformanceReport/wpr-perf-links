@@ -552,24 +552,46 @@
         ],
         "26": [
             {
-                "title": "Declarative partial updates",
-                "url": "https://jadjoubran.io/blog/declarative-partial-updates",
-                "domain": "jadjoubran"
+                "title": "CSP Playground",
+                "url": "https://csp-playground.dev/",
+                "domain": "csp-playground"
             },
             {
-                "title": "The death of Web UI?",
-                "url": "https://utilitybend.com/blog/the-death-of-web-ui-bollocks-geeking-out-on-a-better-web-and-trying-to-make-a-difference",
-                "domain": "utilitybend"
+                "title": "Cross-Origin Storage",
+                "url": "https://github.com/WICG/cross-origin-storage",
+                "domain": "github"
             },
             {
-                "title": "HTML The Standard For SEO",
-                "url": "https://www.seroundtable.com/google-html-vs-markdown-41508.html",
-                "domain": "seroundtable"
+                "title": "Is my website agent-ready?",
+                "url": "https://developer.chrome.com/blog/agent-ready-toolkit",
+                "domain": "chrome"
             },
             {
-                "title": "We Cut Slow Responses by 80%",
-                "url": "https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da",
-                "domain": "dev"
+                "title": "href='#' and the Focus Trap",
+                "url": "https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/",
+                "domain": "th3s4mur41"
+            }
+        ],
+        "27": [
+            {
+                "title": "CSP Playground",
+                "url": "https://csp-playground.dev/",
+                "domain": "csp-playground"
+            },
+            {
+                "title": "Cross-Origin Storage",
+                "url": "https://github.com/WICG/cross-origin-storage",
+                "domain": "github"
+            },
+            {
+                "title": "Is my website agent-ready?",
+                "url": "https://developer.chrome.com/blog/agent-ready-toolkit",
+                "domain": "chrome"
+            },
+            {
+                "title": "href='#' and the Focus Trap",
+                "url": "https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/",
+                "domain": "th3s4mur41"
             }
         ]
     }

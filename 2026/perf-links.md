@@ -154,3 +154,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The death of Web UI?](https://utilitybend.com/blog/the-death-of-web-ui-bollocks-geeking-out-on-a-better-web-and-trying-to-make-a-difference) [utilitybend]
 - ⚡ [HTML The Standard For SEO](https://www.seroundtable.com/google-html-vs-markdown-41508.html) [seroundtable]
 - ⚡ [We Cut Slow Responses by 80%](https://dev.to/subito/how-we-cut-slow-responses-by-80-migrating-to-nextjs-app-router-37da) [dev]
+
+## Week 26
+- ⚡ [CSP Playground](https://csp-playground.dev/) [csp-playground]
+- ⚡ [Cross-Origin Storage](https://github.com/WICG/cross-origin-storage) [github]
+- ⚡ [Is my website agent-ready?](https://developer.chrome.com/blog/agent-ready-toolkit) [chrome]
+- ⚡ [href='#' and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/) [th3s4mur41]
