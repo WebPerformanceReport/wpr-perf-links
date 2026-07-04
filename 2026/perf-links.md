@@ -160,3 +160,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Cross-Origin Storage](https://github.com/WICG/cross-origin-storage) [github]
 - ⚡ [Is my website agent-ready?](https://developer.chrome.com/blog/agent-ready-toolkit) [chrome]
 - ⚡ [href='#' and the Focus Trap](https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/) [th3s4mur41]
+
+## Week 27
+- ⚡ [68% faster LCP, 8.9% more conversions](https://web.dev/case-studies/nuvemshop) [web]
+- ⚡ [Fix Web Performance Issues Faster](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e) [dev]
+- ⚡ [Gemma 4 + Chrome DevTools](https://medium.com/@m1gueld/gemma-4-chrome-devtools-mcp-the-local-ai-stack-for-e2e-browser-testing-d03f118d779c) [medium]
+- ⚡ [Introducing the Safari MCP server](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) [webkit]

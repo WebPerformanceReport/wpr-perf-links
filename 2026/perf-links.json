@@ -574,24 +574,46 @@
         ],
         "27": [
             {
-                "title": "CSP Playground",
-                "url": "https://csp-playground.dev/",
-                "domain": "csp-playground"
+                "title": "68% faster LCP, 8.9% more conversions",
+                "url": "https://web.dev/case-studies/nuvemshop",
+                "domain": "web"
             },
             {
-                "title": "Cross-Origin Storage",
-                "url": "https://github.com/WICG/cross-origin-storage",
-                "domain": "github"
+                "title": "Fix Web Performance Issues Faster",
+                "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+                "domain": "dev"
             },
             {
-                "title": "Is my website agent-ready?",
-                "url": "https://developer.chrome.com/blog/agent-ready-toolkit",
-                "domain": "chrome"
+                "title": "Gemma 4 + Chrome DevTools",
+                "url": "https://medium.com/@m1gueld/gemma-4-chrome-devtools-mcp-the-local-ai-stack-for-e2e-browser-testing-d03f118d779c",
+                "domain": "medium"
             },
             {
-                "title": "href='#' and the Focus Trap",
-                "url": "https://th3s4mur41.me/blog/href-hash-focus-desync-accessibility/",
-                "domain": "th3s4mur41"
+                "title": "Introducing the Safari MCP server",
+                "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+                "domain": "webkit"
+            }
+        ],
+        "28": [
+            {
+                "title": "68% faster LCP, 8.9% more conversions",
+                "url": "https://web.dev/case-studies/nuvemshop",
+                "domain": "web"
+            },
+            {
+                "title": "Fix Web Performance Issues Faster",
+                "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
+                "domain": "dev"
+            },
+            {
+                "title": "Gemma 4 + Chrome DevTools",
+                "url": "https://medium.com/@m1gueld/gemma-4-chrome-devtools-mcp-the-local-ai-stack-for-e2e-browser-testing-d03f118d779c",
+                "domain": "medium"
+            },
+            {
+                "title": "Introducing the Safari MCP server",
+                "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+                "domain": "webkit"
             }
         ]
     }
