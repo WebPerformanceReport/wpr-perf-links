@@ -596,24 +596,46 @@
         ],
         "28": [
             {
-                "title": "68% faster LCP, 8.9% more conversions",
-                "url": "https://web.dev/case-studies/nuvemshop",
-                "domain": "web"
+                "title": "Early Hints problems",
+                "url": "https://early-hints.krzksz.com/",
+                "domain": "krzksz"
             },
             {
-                "title": "Fix Web Performance Issues Faster",
-                "url": "https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e",
-                "domain": "dev"
+                "title": "Seamless PWA origin migration",
+                "url": "https://developer.chrome.com/blog/seamless-pwa-origin-migration",
+                "domain": "chrome"
             },
             {
-                "title": "Gemma 4 + Chrome DevTools",
-                "url": "https://medium.com/@m1gueld/gemma-4-chrome-devtools-mcp-the-local-ai-stack-for-e2e-browser-testing-d03f118d779c",
-                "domain": "medium"
+                "title": "The Web Is Being Built for AI",
+                "url": "https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/",
+                "domain": "techpolicy"
             },
             {
-                "title": "Introducing the Safari MCP server",
-                "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
-                "domain": "webkit"
+                "title": "Astryx an open source design system",
+                "url": "https://astryx.atmeta.com/",
+                "domain": "atmeta"
+            }
+        ],
+        "29": [
+            {
+                "title": "Early Hints problems",
+                "url": "https://early-hints.krzksz.com/",
+                "domain": "krzksz"
+            },
+            {
+                "title": "Seamless PWA origin migration",
+                "url": "https://developer.chrome.com/blog/seamless-pwa-origin-migration",
+                "domain": "chrome"
+            },
+            {
+                "title": "The Web Is Being Built for AI",
+                "url": "https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/",
+                "domain": "techpolicy"
+            },
+            {
+                "title": "Astryx an open source design system",
+                "url": "https://astryx.atmeta.com/",
+                "domain": "atmeta"
             }
         ]
     }

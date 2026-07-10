@@ -166,3 +166,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Fix Web Performance Issues Faster](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e) [dev]
 - ⚡ [Gemma 4 + Chrome DevTools](https://medium.com/@m1gueld/gemma-4-chrome-devtools-mcp-the-local-ai-stack-for-e2e-browser-testing-d03f118d779c) [medium]
 - ⚡ [Introducing the Safari MCP server](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) [webkit]
+
+## Week 28
+- ⚡ [Early Hints problems](https://early-hints.krzksz.com/) [krzksz]
+- ⚡ [Seamless PWA origin migration](https://developer.chrome.com/blog/seamless-pwa-origin-migration) [chrome]
+- ⚡ [The Web Is Being Built for AI](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/) [techpolicy]
+- ⚡ [Astryx an open source design system](https://astryx.atmeta.com/) [atmeta]
