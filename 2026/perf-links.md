@@ -172,3 +172,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Seamless PWA origin migration](https://developer.chrome.com/blog/seamless-pwa-origin-migration) [chrome]
 - ⚡ [The Web Is Being Built for AI](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/) [techpolicy]
 - ⚡ [Astryx an open source design system](https://astryx.atmeta.com/) [atmeta]
+
+## Week 29
+- ⚡ [Building Awesome User (and Agent) Journeys](https://webmcp.com/blog/building-user-journeys-with-webmcp) [webmcp]
+- ⚡ [In defense of polyfills](https://lea.verou.me/blog/2026/polyfills/) [lea]
+- ⚡ [The technical SEO checklist](https://www.semrush.com/blog/technical-seo-checklist/) [semrush]
+- ⚡ [Why Do Websites Sometimes Log You Out?](https://medium.com/@onyie.dev/why-do-websites-sometimes-log-you-out-3144005a0e20) [medium]

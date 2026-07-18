@@ -618,24 +618,46 @@
         ],
         "29": [
             {
-                "title": "Early Hints problems",
-                "url": "https://early-hints.krzksz.com/",
-                "domain": "krzksz"
+                "title": "Building Awesome User (and Agent) Journeys",
+                "url": "https://webmcp.com/blog/building-user-journeys-with-webmcp",
+                "domain": "webmcp"
             },
             {
-                "title": "Seamless PWA origin migration",
-                "url": "https://developer.chrome.com/blog/seamless-pwa-origin-migration",
-                "domain": "chrome"
+                "title": "In defense of polyfills",
+                "url": "https://lea.verou.me/blog/2026/polyfills/",
+                "domain": "lea"
             },
             {
-                "title": "The Web Is Being Built for AI",
-                "url": "https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/",
-                "domain": "techpolicy"
+                "title": "The technical SEO checklist",
+                "url": "https://www.semrush.com/blog/technical-seo-checklist/",
+                "domain": "semrush"
             },
             {
-                "title": "Astryx an open source design system",
-                "url": "https://astryx.atmeta.com/",
-                "domain": "atmeta"
+                "title": "Why Do Websites Sometimes Log You Out?",
+                "url": "https://medium.com/@onyie.dev/why-do-websites-sometimes-log-you-out-3144005a0e20",
+                "domain": "medium"
+            }
+        ],
+        "30": [
+            {
+                "title": "Building Awesome User (and Agent) Journeys",
+                "url": "https://webmcp.com/blog/building-user-journeys-with-webmcp",
+                "domain": "webmcp"
+            },
+            {
+                "title": "In defense of polyfills",
+                "url": "https://lea.verou.me/blog/2026/polyfills/",
+                "domain": "lea"
+            },
+            {
+                "title": "The technical SEO checklist",
+                "url": "https://www.semrush.com/blog/technical-seo-checklist/",
+                "domain": "semrush"
+            },
+            {
+                "title": "Why Do Websites Sometimes Log You Out?",
+                "url": "https://medium.com/@onyie.dev/why-do-websites-sometimes-log-you-out-3144005a0e20",
+                "domain": "medium"
             }
         ]
     }
