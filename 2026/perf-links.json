@@ -640,24 +640,46 @@
         ],
         "30": [
             {
-                "title": "Building Awesome User (and Agent) Journeys",
-                "url": "https://webmcp.com/blog/building-user-journeys-with-webmcp",
-                "domain": "webmcp"
+                "title": "Is your site agent-ready?",
+                "url": "https://blog.cloudflare.com/agent-readiness/",
+                "domain": "cloudflare"
             },
             {
-                "title": "In defense of polyfills",
-                "url": "https://lea.verou.me/blog/2026/polyfills/",
-                "domain": "lea"
+                "title": "Measuring soft navigations",
+                "url": "https://developer.chrome.com/docs/web-platform/soft-navigations",
+                "domain": "chrome"
             },
             {
-                "title": "The technical SEO checklist",
-                "url": "https://www.semrush.com/blog/technical-seo-checklist/",
-                "domain": "semrush"
+                "title": "Reading a performance profile",
+                "url": "https://perf.reviews/profile-guide",
+                "domain": "perf"
             },
             {
-                "title": "Why Do Websites Sometimes Log You Out?",
-                "url": "https://medium.com/@onyie.dev/why-do-websites-sometimes-log-you-out-3144005a0e20",
-                "domain": "medium"
+                "title": "The Absolute State of Management",
+                "url": "https://infrequently.org/2026/07/state-management/",
+                "domain": "infrequently"
+            }
+        ],
+        "31": [
+            {
+                "title": "Is your site agent-ready?",
+                "url": "https://blog.cloudflare.com/agent-readiness/",
+                "domain": "cloudflare"
+            },
+            {
+                "title": "Measuring soft navigations",
+                "url": "https://developer.chrome.com/docs/web-platform/soft-navigations",
+                "domain": "chrome"
+            },
+            {
+                "title": "Reading a performance profile",
+                "url": "https://perf.reviews/profile-guide",
+                "domain": "perf"
+            },
+            {
+                "title": "The Absolute State of Management",
+                "url": "https://infrequently.org/2026/07/state-management/",
+                "domain": "infrequently"
             }
         ]
     }

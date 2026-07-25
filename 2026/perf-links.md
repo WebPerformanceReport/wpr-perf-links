@@ -178,3 +178,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [In defense of polyfills](https://lea.verou.me/blog/2026/polyfills/) [lea]
 - ⚡ [The technical SEO checklist](https://www.semrush.com/blog/technical-seo-checklist/) [semrush]
 - ⚡ [Why Do Websites Sometimes Log You Out?](https://medium.com/@onyie.dev/why-do-websites-sometimes-log-you-out-3144005a0e20) [medium]
+
+## Week 30
+- ⚡ [Is your site agent-ready?](https://blog.cloudflare.com/agent-readiness/) [cloudflare]
+- ⚡ [Measuring soft navigations](https://developer.chrome.com/docs/web-platform/soft-navigations) [chrome]
+- ⚡ [Reading a performance profile](https://perf.reviews/profile-guide) [perf]
+- ⚡ [The Absolute State of Management](https://infrequently.org/2026/07/state-management/) [infrequently]
