@@ -184,3 +184,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Measuring soft navigations](https://developer.chrome.com/docs/web-platform/soft-navigations) [chrome]
 - ⚡ [Reading a performance profile](https://perf.reviews/profile-guide) [perf]
 - ⚡ [The Absolute State of Management](https://infrequently.org/2026/07/state-management/) [infrequently]
+
+## Week 31
+- ⚡ [Why WebPerformance Report Exists](https://webperformancereport.com/blog/why-webperformance-report-exists/) [webperformancereport]
+- ⚡ [Bringing Agent Evals to WebMCP](https://pawelkubiak.dev/blog/testing-ai-agents-with-webmcp-evals) [pawelkubiak]
+- ⚡ [Test page speed with Claude Code](https://www.debugbear.com/docs/claude-code-mcp) [debugbear]
+- ⚡ [There's no 5 second render limit in Google](https://tamethebots.com/blog-n-bits/the-5-second-google-render-limit-myth) [tamethebots]

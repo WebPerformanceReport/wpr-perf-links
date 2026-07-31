@@ -662,24 +662,46 @@
         ],
         "31": [
             {
-                "title": "Is your site agent-ready?",
-                "url": "https://blog.cloudflare.com/agent-readiness/",
-                "domain": "cloudflare"
+                "title": "Why WebPerformance Report Exists",
+                "url": "https://webperformancereport.com/blog/why-webperformance-report-exists/",
+                "domain": "webperformancereport"
             },
             {
-                "title": "Measuring soft navigations",
-                "url": "https://developer.chrome.com/docs/web-platform/soft-navigations",
-                "domain": "chrome"
+                "title": "Bringing Agent Evals to WebMCP",
+                "url": "https://pawelkubiak.dev/blog/testing-ai-agents-with-webmcp-evals",
+                "domain": "pawelkubiak"
             },
             {
-                "title": "Reading a performance profile",
-                "url": "https://perf.reviews/profile-guide",
-                "domain": "perf"
+                "title": "Test page speed with Claude Code",
+                "url": "https://www.debugbear.com/docs/claude-code-mcp",
+                "domain": "debugbear"
             },
             {
-                "title": "The Absolute State of Management",
-                "url": "https://infrequently.org/2026/07/state-management/",
-                "domain": "infrequently"
+                "title": "There's no 5 second render limit in Google",
+                "url": "https://tamethebots.com/blog-n-bits/the-5-second-google-render-limit-myth",
+                "domain": "tamethebots"
+            }
+        ],
+        "32": [
+            {
+                "title": "Why WebPerformance Report Exists",
+                "url": "https://webperformancereport.com/blog/why-webperformance-report-exists/",
+                "domain": "webperformancereport"
+            },
+            {
+                "title": "Bringing Agent Evals to WebMCP",
+                "url": "https://pawelkubiak.dev/blog/testing-ai-agents-with-webmcp-evals",
+                "domain": "pawelkubiak"
+            },
+            {
+                "title": "Test page speed with Claude Code",
+                "url": "https://www.debugbear.com/docs/claude-code-mcp",
+                "domain": "debugbear"
+            },
+            {
+                "title": "There's no 5 second render limit in Google",
+                "url": "https://tamethebots.com/blog-n-bits/the-5-second-google-render-limit-myth",
+                "domain": "tamethebots"
             }
         ]
     }
