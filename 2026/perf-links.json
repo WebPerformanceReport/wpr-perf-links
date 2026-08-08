@@ -684,24 +684,46 @@
         ],
         "32": [
             {
-                "title": "Why WebPerformance Report Exists",
-                "url": "https://webperformancereport.com/blog/why-webperformance-report-exists/",
-                "domain": "webperformancereport"
+                "title": "Your SPA Is Leaking Memory",
+                "url": "https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it",
+                "domain": "denodell"
             },
             {
-                "title": "Bringing Agent Evals to WebMCP",
-                "url": "https://pawelkubiak.dev/blog/testing-ai-agents-with-webmcp-evals",
-                "domain": "pawelkubiak"
+                "title": "How to set Content Security Policy with a Meta Tag?",
+                "url": "https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm",
+                "domain": "dev"
             },
             {
-                "title": "Test page speed with Claude Code",
-                "url": "https://www.debugbear.com/docs/claude-code-mcp",
-                "domain": "debugbear"
+                "title": "Robots.txt vs LLMS.txt vs Cats.txt",
+                "url": "https://seomarketing.agency/seo-blog/robots-txt-vs-llms-txt-vs-cats-txt-key-differences-for-ai-seo/",
+                "domain": "seomarketing"
             },
             {
-                "title": "There's no 5 second render limit in Google",
-                "url": "https://tamethebots.com/blog-n-bits/the-5-second-google-render-limit-myth",
-                "domain": "tamethebots"
+                "title": "10 SEO use cases for accessibility for AI search",
+                "url": "https://searchengineland.com/accessibility-tree-seo-use-cases-484338",
+                "domain": "searchengineland"
+            }
+        ],
+        "33": [
+            {
+                "title": "Your SPA Is Leaking Memory",
+                "url": "https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it",
+                "domain": "denodell"
+            },
+            {
+                "title": "How to set Content Security Policy with a Meta Tag?",
+                "url": "https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm",
+                "domain": "dev"
+            },
+            {
+                "title": "Robots.txt vs LLMS.txt vs Cats.txt",
+                "url": "https://seomarketing.agency/seo-blog/robots-txt-vs-llms-txt-vs-cats-txt-key-differences-for-ai-seo/",
+                "domain": "seomarketing"
+            },
+            {
+                "title": "10 SEO use cases for accessibility for AI search",
+                "url": "https://searchengineland.com/accessibility-tree-seo-use-cases-484338",
+                "domain": "searchengineland"
             }
         ]
     }

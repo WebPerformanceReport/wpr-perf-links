@@ -190,3 +190,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Bringing Agent Evals to WebMCP](https://pawelkubiak.dev/blog/testing-ai-agents-with-webmcp-evals) [pawelkubiak]
 - ⚡ [Test page speed with Claude Code](https://www.debugbear.com/docs/claude-code-mcp) [debugbear]
 - ⚡ [There's no 5 second render limit in Google](https://tamethebots.com/blog-n-bits/the-5-second-google-render-limit-myth) [tamethebots]
+
+## Week 32
+- ⚡ [Your SPA Is Leaking Memory](https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it) [denodell]
+- ⚡ [How to set Content Security Policy with a Meta Tag?](https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm) [dev]
+- ⚡ [Robots.txt vs LLMS.txt vs Cats.txt](https://seomarketing.agency/seo-blog/robots-txt-vs-llms-txt-vs-cats-txt-key-differences-for-ai-seo/) [seomarketing]
+- ⚡ [10 SEO use cases for accessibility for AI search](https://searchengineland.com/accessibility-tree-seo-use-cases-484338) [searchengineland]
