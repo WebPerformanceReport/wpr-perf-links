@@ -196,3 +196,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [How to set Content Security Policy with a Meta Tag?](https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm) [dev]
 - ⚡ [Robots.txt vs LLMS.txt vs Cats.txt](https://seomarketing.agency/seo-blog/robots-txt-vs-llms-txt-vs-cats-txt-key-differences-for-ai-seo/) [seomarketing]
 - ⚡ [10 SEO use cases for accessibility for AI search](https://searchengineland.com/accessibility-tree-seo-use-cases-484338) [searchengineland]
+
+## Week 33
+- ⚡ [AI and organic search are doing different jobs](https://www.shopify.com/enterprise/blog/ai-search-category-behavior) [shopify]
+- ⚡ [The CrUX 28-day rolling window](https://joanleon.dev/en/crux-28-day-window/) [joanleon]
+- ⚡ [AI Web Readiness as a Curb-Cut](https://www.ethangardner.com/posts/ai-web-readiness-curb-cut/) [ethangardner]
+- ⚡ [HTTP Integrity Digests](https://lucaspardue.com/2026/08/08/http-integrity/) [lucaspardue]

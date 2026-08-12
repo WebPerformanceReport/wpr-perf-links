@@ -706,24 +706,46 @@
         ],
         "33": [
             {
-                "title": "Your SPA Is Leaking Memory",
-                "url": "https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it",
-                "domain": "denodell"
+                "title": "AI and organic search are doing different jobs",
+                "url": "https://www.shopify.com/enterprise/blog/ai-search-category-behavior",
+                "domain": "shopify"
             },
             {
-                "title": "How to set Content Security Policy with a Meta Tag?",
-                "url": "https://dev.to/jacobandrewsky/how-to-set-content-security-policy-with-a-meta-tag-5gfm",
-                "domain": "dev"
+                "title": "The CrUX 28-day rolling window",
+                "url": "https://joanleon.dev/en/crux-28-day-window/",
+                "domain": "joanleon"
             },
             {
-                "title": "Robots.txt vs LLMS.txt vs Cats.txt",
-                "url": "https://seomarketing.agency/seo-blog/robots-txt-vs-llms-txt-vs-cats-txt-key-differences-for-ai-seo/",
-                "domain": "seomarketing"
+                "title": "AI Web Readiness as a Curb-Cut",
+                "url": "https://www.ethangardner.com/posts/ai-web-readiness-curb-cut/",
+                "domain": "ethangardner"
             },
             {
-                "title": "10 SEO use cases for accessibility for AI search",
-                "url": "https://searchengineland.com/accessibility-tree-seo-use-cases-484338",
-                "domain": "searchengineland"
+                "title": "HTTP Integrity Digests",
+                "url": "https://lucaspardue.com/2026/08/08/http-integrity/",
+                "domain": "lucaspardue"
+            }
+        ],
+        "34": [
+            {
+                "title": "AI and organic search are doing different jobs",
+                "url": "https://www.shopify.com/enterprise/blog/ai-search-category-behavior",
+                "domain": "shopify"
+            },
+            {
+                "title": "The CrUX 28-day rolling window",
+                "url": "https://joanleon.dev/en/crux-28-day-window/",
+                "domain": "joanleon"
+            },
+            {
+                "title": "AI Web Readiness as a Curb-Cut",
+                "url": "https://www.ethangardner.com/posts/ai-web-readiness-curb-cut/",
+                "domain": "ethangardner"
+            },
+            {
+                "title": "HTTP Integrity Digests",
+                "url": "https://lucaspardue.com/2026/08/08/http-integrity/",
+                "domain": "lucaspardue"
             }
         ]
     }
