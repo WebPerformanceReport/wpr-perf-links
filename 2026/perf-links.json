@@ -728,24 +728,46 @@
         ],
         "34": [
             {
-                "title": "AI and organic search are doing different jobs",
-                "url": "https://www.shopify.com/enterprise/blog/ai-search-category-behavior",
+                "title": "How to Use Core Web Vitals Subparts",
+                "url": "https://www.speedcurve.com/web-performance-guide/core-web-vitals-subparts/",
+                "domain": "speedcurve"
+            },
+            {
+                "title": "UX-Context Design",
+                "url": "https://www.nngroup.com/articles/ux-context-design/",
+                "domain": "nngroup"
+            },
+            {
+                "title": "Make your website agent ready with WebMCP",
+                "url": "https://www.youtube.com/watch?v=FARxSG_EY98",
+                "domain": "youtube"
+            },
+            {
+                "title": "Perf best practices for Shopify themes",
+                "url": "https://shopify.dev/docs/storefronts/themes/best-practices/performance",
                 "domain": "shopify"
+            }
+        ],
+        "35": [
+            {
+                "title": "How to Use Core Web Vitals Subparts",
+                "url": "https://www.speedcurve.com/web-performance-guide/core-web-vitals-subparts/",
+                "domain": "speedcurve"
             },
             {
-                "title": "The CrUX 28-day rolling window",
-                "url": "https://joanleon.dev/en/crux-28-day-window/",
-                "domain": "joanleon"
+                "title": "UX-Context Design",
+                "url": "https://www.nngroup.com/articles/ux-context-design/",
+                "domain": "nngroup"
             },
             {
-                "title": "AI Web Readiness as a Curb-Cut",
-                "url": "https://www.ethangardner.com/posts/ai-web-readiness-curb-cut/",
-                "domain": "ethangardner"
+                "title": "Make your website agent ready with WebMCP",
+                "url": "https://www.youtube.com/watch?v=FARxSG_EY98",
+                "domain": "youtube"
             },
             {
-                "title": "HTTP Integrity Digests",
-                "url": "https://lucaspardue.com/2026/08/08/http-integrity/",
-                "domain": "lucaspardue"
+                "title": "Perf best practices for Shopify themes",
+                "url": "https://shopify.dev/docs/storefronts/themes/best-practices/performance",
+                "domain": "shopify"
             }
         ]
     }

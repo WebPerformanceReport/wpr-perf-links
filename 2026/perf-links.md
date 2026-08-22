@@ -202,3 +202,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The CrUX 28-day rolling window](https://joanleon.dev/en/crux-28-day-window/) [joanleon]
 - ⚡ [AI Web Readiness as a Curb-Cut](https://www.ethangardner.com/posts/ai-web-readiness-curb-cut/) [ethangardner]
 - ⚡ [HTTP Integrity Digests](https://lucaspardue.com/2026/08/08/http-integrity/) [lucaspardue]
+
+## Week 34
+- ⚡ [How to Use Core Web Vitals Subparts](https://www.speedcurve.com/web-performance-guide/core-web-vitals-subparts/) [speedcurve]
+- ⚡ [UX-Context Design](https://www.nngroup.com/articles/ux-context-design/) [nngroup]
+- ⚡ [Make your website agent ready with WebMCP](https://www.youtube.com/watch?v=FARxSG_EY98) [youtube]
+- ⚡ [Perf best practices for Shopify themes](https://shopify.dev/docs/storefronts/themes/best-practices/performance) [shopify]
