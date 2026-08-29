@@ -208,3 +208,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [UX-Context Design](https://www.nngroup.com/articles/ux-context-design/) [nngroup]
 - ⚡ [Make your website agent ready with WebMCP](https://www.youtube.com/watch?v=FARxSG_EY98) [youtube]
 - ⚡ [Perf best practices for Shopify themes](https://shopify.dev/docs/storefronts/themes/best-practices/performance) [shopify]
+
+## Week 35
+- ⚡ [Faster Shopify storefronts with automatic Early Hints](https://performance.shopify.com/blogs/blog/faster-shopify-storefronts-with-automatic-early-hints) [shopify]
+- ⚡ [This 'double HTML' pattern must stop!](https://aarontgrogg.com/blog/2026/08/20/this-double-html-pattern-must-stop/) [aarontgrogg]
+- ⚡ [Pagination Best Practices for SEO](https://thegray.company/blog/pagination-seo-guide#infinite-scroll-and-load-more-best-practices-for-seo) [thegray]
+- ⚡ [How to Be Found When the Query is a Picture](https://www.advancedwebranking.com/seo/images-and-visual-search-guide) [advancedwebranking]

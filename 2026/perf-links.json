@@ -750,24 +750,46 @@
         ],
         "35": [
             {
-                "title": "How to Use Core Web Vitals Subparts",
-                "url": "https://www.speedcurve.com/web-performance-guide/core-web-vitals-subparts/",
-                "domain": "speedcurve"
-            },
-            {
-                "title": "UX-Context Design",
-                "url": "https://www.nngroup.com/articles/ux-context-design/",
-                "domain": "nngroup"
-            },
-            {
-                "title": "Make your website agent ready with WebMCP",
-                "url": "https://www.youtube.com/watch?v=FARxSG_EY98",
-                "domain": "youtube"
-            },
-            {
-                "title": "Perf best practices for Shopify themes",
-                "url": "https://shopify.dev/docs/storefronts/themes/best-practices/performance",
+                "title": "Faster Shopify storefronts with automatic Early Hints",
+                "url": "https://performance.shopify.com/blogs/blog/faster-shopify-storefronts-with-automatic-early-hints",
                 "domain": "shopify"
+            },
+            {
+                "title": "This 'double HTML' pattern must stop!",
+                "url": "https://aarontgrogg.com/blog/2026/08/20/this-double-html-pattern-must-stop/",
+                "domain": "aarontgrogg"
+            },
+            {
+                "title": "Pagination Best Practices for SEO",
+                "url": "https://thegray.company/blog/pagination-seo-guide#infinite-scroll-and-load-more-best-practices-for-seo",
+                "domain": "thegray"
+            },
+            {
+                "title": "How to Be Found When the Query is a Picture",
+                "url": "https://www.advancedwebranking.com/seo/images-and-visual-search-guide",
+                "domain": "advancedwebranking"
+            }
+        ],
+        "36": [
+            {
+                "title": "Faster Shopify storefronts with automatic Early Hints",
+                "url": "https://performance.shopify.com/blogs/blog/faster-shopify-storefronts-with-automatic-early-hints",
+                "domain": "shopify"
+            },
+            {
+                "title": "This 'double HTML' pattern must stop!",
+                "url": "https://aarontgrogg.com/blog/2026/08/20/this-double-html-pattern-must-stop/",
+                "domain": "aarontgrogg"
+            },
+            {
+                "title": "Pagination Best Practices for SEO",
+                "url": "https://thegray.company/blog/pagination-seo-guide#infinite-scroll-and-load-more-best-practices-for-seo",
+                "domain": "thegray"
+            },
+            {
+                "title": "How to Be Found When the Query is a Picture",
+                "url": "https://www.advancedwebranking.com/seo/images-and-visual-search-guide",
+                "domain": "advancedwebranking"
             }
         ]
     }
