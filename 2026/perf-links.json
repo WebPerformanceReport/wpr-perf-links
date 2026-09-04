@@ -772,24 +772,46 @@
         ],
         "36": [
             {
-                "title": "Faster Shopify storefronts with automatic Early Hints",
-                "url": "https://performance.shopify.com/blogs/blog/faster-shopify-storefronts-with-automatic-early-hints",
-                "domain": "shopify"
+                "title": "Submit your proposals for Interop 2027",
+                "url": "https://web.dev/blog/interop-2027-proposals",
+                "domain": "web"
             },
             {
-                "title": "This 'double HTML' pattern must stop!",
-                "url": "https://aarontgrogg.com/blog/2026/08/20/this-double-html-pattern-must-stop/",
-                "domain": "aarontgrogg"
+                "title": "Reading a performance profile",
+                "url": "https://perf.reviews/profile-guide",
+                "domain": "perf"
             },
             {
-                "title": "Pagination Best Practices for SEO",
-                "url": "https://thegray.company/blog/pagination-seo-guide#infinite-scroll-and-load-more-best-practices-for-seo",
-                "domain": "thegray"
+                "title": "HTML over WebSockets",
+                "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+                "domain": "andros"
             },
             {
-                "title": "How to Be Found When the Query is a Picture",
-                "url": "https://www.advancedwebranking.com/seo/images-and-visual-search-guide",
-                "domain": "advancedwebranking"
+                "title": "Intro to Web UX and Speed Optimization",
+                "url": "https://www.youtube.com/watch?v=TF1s63cQyVM",
+                "domain": "youtube"
+            }
+        ],
+        "37": [
+            {
+                "title": "Submit your proposals for Interop 2027",
+                "url": "https://web.dev/blog/interop-2027-proposals",
+                "domain": "web"
+            },
+            {
+                "title": "Reading a performance profile",
+                "url": "https://perf.reviews/profile-guide",
+                "domain": "perf"
+            },
+            {
+                "title": "HTML over WebSockets",
+                "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+                "domain": "andros"
+            },
+            {
+                "title": "Intro to Web UX and Speed Optimization",
+                "url": "https://www.youtube.com/watch?v=TF1s63cQyVM",
+                "domain": "youtube"
             }
         ]
     }

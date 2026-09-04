@@ -214,3 +214,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [This 'double HTML' pattern must stop!](https://aarontgrogg.com/blog/2026/08/20/this-double-html-pattern-must-stop/) [aarontgrogg]
 - ⚡ [Pagination Best Practices for SEO](https://thegray.company/blog/pagination-seo-guide#infinite-scroll-and-load-more-best-practices-for-seo) [thegray]
 - ⚡ [How to Be Found When the Query is a Picture](https://www.advancedwebranking.com/seo/images-and-visual-search-guide) [advancedwebranking]
+
+## Week 36
+- ⚡ [Submit your proposals for Interop 2027](https://web.dev/blog/interop-2027-proposals) [web]
+- ⚡ [Reading a performance profile](https://perf.reviews/profile-guide) [perf]
+- ⚡ [HTML over WebSockets](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/) [andros]
+- ⚡ [Intro to Web UX and Speed Optimization](https://www.youtube.com/watch?v=TF1s63cQyVM) [youtube]
