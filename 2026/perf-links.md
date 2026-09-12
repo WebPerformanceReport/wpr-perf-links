@@ -220,3 +220,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Reading a performance profile](https://perf.reviews/profile-guide) [perf]
 - ⚡ [HTML over WebSockets](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/) [andros]
 - ⚡ [Intro to Web UX and Speed Optimization](https://www.youtube.com/watch?v=TF1s63cQyVM) [youtube]
+
+## Week 37
+- ⚡ [Resource Age and Its Impact on Cacheability](https://paulcalvano.com/2026-09-05-resource-age-and-its-impact-on-cacheability/) [paulcalvano]
+- ⚡ [Increased INP impact from Meta Pixel](https://www.rumvision.com/blog/increased-inp-impact-from-meta-pixel/) [rumvision]
+- ⚡ [Native is now the future of mobile at Shopify](https://shopify.engineering/back-to-native) [shopify]
+- ⚡ [Unattributed Navigation Overhead Is Underrated](https://csswizardry.com/2026/08/uno-is-underrated/) [csswizardry]

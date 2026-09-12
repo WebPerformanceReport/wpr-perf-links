@@ -794,24 +794,46 @@
         ],
         "37": [
             {
-                "title": "Submit your proposals for Interop 2027",
-                "url": "https://web.dev/blog/interop-2027-proposals",
-                "domain": "web"
+                "title": "Resource Age and Its Impact on Cacheability",
+                "url": "https://paulcalvano.com/2026-09-05-resource-age-and-its-impact-on-cacheability/",
+                "domain": "paulcalvano"
             },
             {
-                "title": "Reading a performance profile",
-                "url": "https://perf.reviews/profile-guide",
-                "domain": "perf"
+                "title": "Increased INP impact from Meta Pixel",
+                "url": "https://www.rumvision.com/blog/increased-inp-impact-from-meta-pixel/",
+                "domain": "rumvision"
             },
             {
-                "title": "HTML over WebSockets",
-                "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-                "domain": "andros"
+                "title": "Native is now the future of mobile at Shopify",
+                "url": "https://shopify.engineering/back-to-native",
+                "domain": "shopify"
             },
             {
-                "title": "Intro to Web UX and Speed Optimization",
-                "url": "https://www.youtube.com/watch?v=TF1s63cQyVM",
-                "domain": "youtube"
+                "title": "Unattributed Navigation Overhead Is Underrated",
+                "url": "https://csswizardry.com/2026/08/uno-is-underrated/",
+                "domain": "csswizardry"
+            }
+        ],
+        "38": [
+            {
+                "title": "Resource Age and Its Impact on Cacheability",
+                "url": "https://paulcalvano.com/2026-09-05-resource-age-and-its-impact-on-cacheability/",
+                "domain": "paulcalvano"
+            },
+            {
+                "title": "Increased INP impact from Meta Pixel",
+                "url": "https://www.rumvision.com/blog/increased-inp-impact-from-meta-pixel/",
+                "domain": "rumvision"
+            },
+            {
+                "title": "Native is now the future of mobile at Shopify",
+                "url": "https://shopify.engineering/back-to-native",
+                "domain": "shopify"
+            },
+            {
+                "title": "Unattributed Navigation Overhead Is Underrated",
+                "url": "https://csswizardry.com/2026/08/uno-is-underrated/",
+                "domain": "csswizardry"
             }
         ]
     }
