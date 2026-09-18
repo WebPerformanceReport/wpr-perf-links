@@ -816,24 +816,46 @@
         ],
         "38": [
             {
-                "title": "Resource Age and Its Impact on Cacheability",
-                "url": "https://paulcalvano.com/2026-09-05-resource-age-and-its-impact-on-cacheability/",
-                "domain": "paulcalvano"
+                "title": "New ad metrics in Chrome User Experience Report",
+                "url": "https://developer.chrome.com/blog/crux-ad-metrics",
+                "domain": "chrome"
             },
             {
-                "title": "Increased INP impact from Meta Pixel",
-                "url": "https://www.rumvision.com/blog/increased-inp-impact-from-meta-pixel/",
-                "domain": "rumvision"
+                "title": "The case against JPEG XL",
+                "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                "domain": "giannirosato"
             },
             {
-                "title": "Native is now the future of mobile at Shopify",
-                "url": "https://shopify.engineering/back-to-native",
-                "domain": "shopify"
+                "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+                "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing",
+                "domain": "atspotify"
             },
             {
-                "title": "Unattributed Navigation Overhead Is Underrated",
-                "url": "https://csswizardry.com/2026/08/uno-is-underrated/",
-                "domain": "csswizardry"
+                "title": "International SEO for Publishers",
+                "url": "https://www.seoforgooglenews.com/p/international-seo-for-publishers",
+                "domain": "seoforgooglenews"
+            }
+        ],
+        "39": [
+            {
+                "title": "New ad metrics in Chrome User Experience Report",
+                "url": "https://developer.chrome.com/blog/crux-ad-metrics",
+                "domain": "chrome"
+            },
+            {
+                "title": "The case against JPEG XL",
+                "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+                "domain": "giannirosato"
+            },
+            {
+                "title": "Why Spotify Is Not Using Bayesian A/B Testing",
+                "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing",
+                "domain": "atspotify"
+            },
+            {
+                "title": "International SEO for Publishers",
+                "url": "https://www.seoforgooglenews.com/p/international-seo-for-publishers",
+                "domain": "seoforgooglenews"
             }
         ]
     }

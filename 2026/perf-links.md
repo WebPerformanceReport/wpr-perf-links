@@ -226,3 +226,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Increased INP impact from Meta Pixel](https://www.rumvision.com/blog/increased-inp-impact-from-meta-pixel/) [rumvision]
 - ⚡ [Native is now the future of mobile at Shopify](https://shopify.engineering/back-to-native) [shopify]
 - ⚡ [Unattributed Navigation Overhead Is Underrated](https://csswizardry.com/2026/08/uno-is-underrated/) [csswizardry]
+
+## Week 38
+- ⚡ [New ad metrics in Chrome User Experience Report](https://developer.chrome.com/blog/crux-ad-metrics) [chrome]
+- ⚡ [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) [giannirosato]
+- ⚡ [Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing) [atspotify]
+- ⚡ [International SEO for Publishers](https://www.seoforgooglenews.com/p/international-seo-for-publishers) [seoforgooglenews]
