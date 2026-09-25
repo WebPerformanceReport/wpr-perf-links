@@ -232,3 +232,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/) [giannirosato]
 - ⚡ [Why Spotify Is Not Using Bayesian A/B Testing](https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing) [atspotify]
 - ⚡ [International SEO for Publishers](https://www.seoforgooglenews.com/p/international-seo-for-publishers) [seoforgooglenews]
+
+## Week 39
+- ⚡ [AI Reporting Workflow](https://webperformancereport.com/blog/ai-reporting-workflow/) [webperformancereport]
+- ⚡ [How we made claude.ai 3x faster](https://claude.dev/blog/how-we-made-claude-ai-faster/) [claude]
+- ⚡ [Liquid storefronts start loading 29% faster](https://performance.shopify.com/blogs/blog/liquid-storefronts-now-start-loading-29-faster) [shopify]
+- ⚡ [Blurry before beautiful](https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web/) [patrickbrosset]

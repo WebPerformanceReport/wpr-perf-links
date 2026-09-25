@@ -838,24 +838,46 @@
         ],
         "39": [
             {
-                "title": "New ad metrics in Chrome User Experience Report",
-                "url": "https://developer.chrome.com/blog/crux-ad-metrics",
-                "domain": "chrome"
+                "title": "AI Reporting Workflow",
+                "url": "https://webperformancereport.com/blog/ai-reporting-workflow/",
+                "domain": "webperformancereport"
             },
             {
-                "title": "The case against JPEG XL",
-                "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-                "domain": "giannirosato"
+                "title": "How we made claude.ai 3x faster",
+                "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+                "domain": "claude"
             },
             {
-                "title": "Why Spotify Is Not Using Bayesian A/B Testing",
-                "url": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing",
-                "domain": "atspotify"
+                "title": "Liquid storefronts start loading 29% faster",
+                "url": "https://performance.shopify.com/blogs/blog/liquid-storefronts-now-start-loading-29-faster",
+                "domain": "shopify"
             },
             {
-                "title": "International SEO for Publishers",
-                "url": "https://www.seoforgooglenews.com/p/international-seo-for-publishers",
-                "domain": "seoforgooglenews"
+                "title": "Blurry before beautiful",
+                "url": "https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web/",
+                "domain": "patrickbrosset"
+            }
+        ],
+        "40": [
+            {
+                "title": "AI Reporting Workflow",
+                "url": "https://webperformancereport.com/blog/ai-reporting-workflow/",
+                "domain": "webperformancereport"
+            },
+            {
+                "title": "How we made claude.ai 3x faster",
+                "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+                "domain": "claude"
+            },
+            {
+                "title": "Liquid storefronts start loading 29% faster",
+                "url": "https://performance.shopify.com/blogs/blog/liquid-storefronts-now-start-loading-29-faster",
+                "domain": "shopify"
+            },
+            {
+                "title": "Blurry before beautiful",
+                "url": "https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web/",
+                "domain": "patrickbrosset"
             }
         ]
     }
