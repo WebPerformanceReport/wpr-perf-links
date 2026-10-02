@@ -860,24 +860,46 @@
         ],
         "40": [
             {
-                "title": "AI Reporting Workflow",
-                "url": "https://webperformancereport.com/blog/ai-reporting-workflow/",
-                "domain": "webperformancereport"
+                "title": "Improving site performance by shipping more CSS",
+                "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+                "domain": "github"
             },
             {
-                "title": "How we made claude.ai 3x faster",
-                "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-                "domain": "claude"
+                "title": "How AI Agents Use Websites",
+                "url": "https://merj.com/blog/agent-interaction-research",
+                "domain": "merj"
             },
             {
-                "title": "Liquid storefronts start loading 29% faster",
-                "url": "https://performance.shopify.com/blogs/blog/liquid-storefronts-now-start-loading-29-faster",
-                "domain": "shopify"
+                "title": "Chasing the Perfect Website",
+                "url": "https://www.youtube.com/watch?v=UfFSOa64-Dc",
+                "domain": "youtube"
             },
             {
-                "title": "Blurry before beautiful",
-                "url": "https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web/",
-                "domain": "patrickbrosset"
+                "title": "Performance at Scale with Ryan Townsend",
+                "url": "https://www.youtube.com/watch?v=vu4j_zNbqdw",
+                "domain": "youtube"
+            }
+        ],
+        "41": [
+            {
+                "title": "Improving site performance by shipping more CSS",
+                "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+                "domain": "github"
+            },
+            {
+                "title": "How AI Agents Use Websites",
+                "url": "https://merj.com/blog/agent-interaction-research",
+                "domain": "merj"
+            },
+            {
+                "title": "Chasing the Perfect Website",
+                "url": "https://www.youtube.com/watch?v=UfFSOa64-Dc",
+                "domain": "youtube"
+            },
+            {
+                "title": "Performance at Scale with Ryan Townsend",
+                "url": "https://www.youtube.com/watch?v=vu4j_zNbqdw",
+                "domain": "youtube"
             }
         ]
     }

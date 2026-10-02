@@ -238,3 +238,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [How we made claude.ai 3x faster](https://claude.dev/blog/how-we-made-claude-ai-faster/) [claude]
 - ⚡ [Liquid storefronts start loading 29% faster](https://performance.shopify.com/blogs/blog/liquid-storefronts-now-start-loading-29-faster) [shopify]
 - ⚡ [Blurry before beautiful](https://patrickbrosset.com/articles/2026-09-22-blurry-before-beautiful-image-previews-for-the-web/) [patrickbrosset]
+
+## Week 40
+- ⚡ [Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/) [github]
+- ⚡ [How AI Agents Use Websites](https://merj.com/blog/agent-interaction-research) [merj]
+- ⚡ [Chasing the Perfect Website](https://www.youtube.com/watch?v=UfFSOa64-Dc) [youtube]
+- ⚡ [Performance at Scale with Ryan Townsend](https://www.youtube.com/watch?v=vu4j_zNbqdw) [youtube]
