@@ -244,3 +244,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [How AI Agents Use Websites](https://merj.com/blog/agent-interaction-research) [merj]
 - ⚡ [Chasing the Perfect Website](https://www.youtube.com/watch?v=UfFSOa64-Dc) [youtube]
 - ⚡ [Performance at Scale with Ryan Townsend](https://www.youtube.com/watch?v=vu4j_zNbqdw) [youtube]
+
+## Week 41
+- ⚡ [How fast is the web?](https://blog.cloudflare.com/how-fast-is-the-web/) [cloudflare]
+- ⚡ [Measuring the back/forward cache](https://blog.sentry.io/bfcache-metrics/) [sentry]
+- ⚡ [SEOs Should Not Be Responsible For 'Agentic Web'](https://ashla.ai/p/opinion-seos-should-not-be-responsible-for-the-agentic-web) [ashla]
+- ⚡ [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) [chrome]

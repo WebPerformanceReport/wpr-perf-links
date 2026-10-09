@@ -882,24 +882,46 @@
         ],
         "41": [
             {
-                "title": "Improving site performance by shipping more CSS",
-                "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-                "domain": "github"
+                "title": "How fast is the web?",
+                "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+                "domain": "cloudflare"
             },
             {
-                "title": "How AI Agents Use Websites",
-                "url": "https://merj.com/blog/agent-interaction-research",
-                "domain": "merj"
+                "title": "Measuring the back/forward cache",
+                "url": "https://blog.sentry.io/bfcache-metrics/",
+                "domain": "sentry"
             },
             {
-                "title": "Chasing the Perfect Website",
-                "url": "https://www.youtube.com/watch?v=UfFSOa64-Dc",
-                "domain": "youtube"
+                "title": "SEOs Should Not Be Responsible For 'Agentic Web'",
+                "url": "https://ashla.ai/p/opinion-seos-should-not-be-responsible-for-the-agentic-web",
+                "domain": "ashla"
             },
             {
-                "title": "Performance at Scale with Ryan Townsend",
-                "url": "https://www.youtube.com/watch?v=vu4j_zNbqdw",
-                "domain": "youtube"
+                "title": "Shipping JPEG XL in Chrome",
+                "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+                "domain": "chrome"
+            }
+        ],
+        "42": [
+            {
+                "title": "How fast is the web?",
+                "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+                "domain": "cloudflare"
+            },
+            {
+                "title": "Measuring the back/forward cache",
+                "url": "https://blog.sentry.io/bfcache-metrics/",
+                "domain": "sentry"
+            },
+            {
+                "title": "SEOs Should Not Be Responsible For 'Agentic Web'",
+                "url": "https://ashla.ai/p/opinion-seos-should-not-be-responsible-for-the-agentic-web",
+                "domain": "ashla"
+            },
+            {
+                "title": "Shipping JPEG XL in Chrome",
+                "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+                "domain": "chrome"
             }
         ]
     }
