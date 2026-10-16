@@ -250,3 +250,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Measuring the back/forward cache](https://blog.sentry.io/bfcache-metrics/) [sentry]
 - ⚡ [SEOs Should Not Be Responsible For 'Agentic Web'](https://ashla.ai/p/opinion-seos-should-not-be-responsible-for-the-agentic-web) [ashla]
 - ⚡ [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) [chrome]
+
+## Week 42
+- ⚡ [How top Swedish sites' LCP changes with soft navigations](https://gernberg.com/posts/2026/how-top-swedish-sites-lcp-changes-with-soft-navigations/) [gernberg]
+- ⚡ [Experimental soft navigation metrics now available in CrUX](https://web.dev/blog/crux-experimental-soft-navs) [web.dev]
+- ⚡ [Unload event deprecated in Chrome](https://developer.chrome.com/blog/unload-deprecated-in-chrome) [chrome]
+- ⚡ [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) [jakearchibald]

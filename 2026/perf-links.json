@@ -904,24 +904,46 @@
         ],
         "42": [
             {
-                "title": "How fast is the web?",
-                "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
-                "domain": "cloudflare"
+                "title": "How top Swedish sites' LCP changes with soft navigations",
+                "url": "https://gernberg.com/posts/2026/how-top-swedish-sites-lcp-changes-with-soft-navigations/",
+                "domain": "gernberg"
             },
             {
-                "title": "Measuring the back/forward cache",
-                "url": "https://blog.sentry.io/bfcache-metrics/",
-                "domain": "sentry"
+                "title": "Experimental soft navigation metrics now available in CrUX",
+                "url": "https://web.dev/blog/crux-experimental-soft-navs",
+                "domain": "web.dev"
             },
             {
-                "title": "SEOs Should Not Be Responsible For 'Agentic Web'",
-                "url": "https://ashla.ai/p/opinion-seos-should-not-be-responsible-for-the-agentic-web",
-                "domain": "ashla"
-            },
-            {
-                "title": "Shipping JPEG XL in Chrome",
-                "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+                "title": "Unload event deprecated in Chrome",
+                "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome",
                 "domain": "chrome"
+            },
+            {
+                "title": "JPEG XL vs AVIF for web use-cases",
+                "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+                "domain": "jakearchibald"
+            }
+        ],
+        "43": [
+            {
+                "title": "How top Swedish sites' LCP changes with soft navigations",
+                "url": "https://gernberg.com/posts/2026/how-top-swedish-sites-lcp-changes-with-soft-navigations/",
+                "domain": "gernberg"
+            },
+            {
+                "title": "Experimental soft navigation metrics now available in CrUX",
+                "url": "https://web.dev/blog/crux-experimental-soft-navs",
+                "domain": "web.dev"
+            },
+            {
+                "title": "Unload event deprecated in Chrome",
+                "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome",
+                "domain": "chrome"
+            },
+            {
+                "title": "JPEG XL vs AVIF for web use-cases",
+                "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+                "domain": "jakearchibald"
             }
         ]
     }
