@@ -926,24 +926,46 @@
         ],
         "43": [
             {
-                "title": "How top Swedish sites' LCP changes with soft navigations",
-                "url": "https://gernberg.com/posts/2026/how-top-swedish-sites-lcp-changes-with-soft-navigations/",
-                "domain": "gernberg"
+                "title": "Today's PHP Security Release",
+                "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+                "domain": "thephp"
             },
             {
-                "title": "Experimental soft navigation metrics now available in CrUX",
-                "url": "https://web.dev/blog/crux-experimental-soft-navs",
-                "domain": "web.dev"
+                "title": "Shopify Checkout Hijack Attack",
+                "url": "https://romanzipp.com/blog/shopify-hit-with-phishing-attack",
+                "domain": "romanzipp"
             },
             {
-                "title": "Unload event deprecated in Chrome",
-                "url": "https://developer.chrome.com/blog/unload-deprecated-in-chrome",
-                "domain": "chrome"
+                "title": "AI, make the website good",
+                "url": "https://www.zachleat.com/web/ai-websites/",
+                "domain": "zachleat"
             },
             {
-                "title": "JPEG XL vs AVIF for web use-cases",
-                "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-                "domain": "jakearchibald"
+                "title": "What’s new in the W3C Website Design System",
+                "url": "https://www.w3.org/blog/2026/whats-new-in-the-w3c-design-system-september-2026/",
+                "domain": "w3.org"
+            }
+        ],
+        "44": [
+            {
+                "title": "Today's PHP Security Release",
+                "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+                "domain": "thephp"
+            },
+            {
+                "title": "Shopify Checkout Hijack Attack",
+                "url": "https://romanzipp.com/blog/shopify-hit-with-phishing-attack",
+                "domain": "romanzipp"
+            },
+            {
+                "title": "AI, make the website good",
+                "url": "https://www.zachleat.com/web/ai-websites/",
+                "domain": "zachleat"
+            },
+            {
+                "title": "What’s new in the W3C Website Design System",
+                "url": "https://www.w3.org/blog/2026/whats-new-in-the-w3c-design-system-september-2026/",
+                "domain": "w3.org"
             }
         ]
     }

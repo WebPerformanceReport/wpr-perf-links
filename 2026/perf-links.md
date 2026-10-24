@@ -256,3 +256,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Experimental soft navigation metrics now available in CrUX](https://web.dev/blog/crux-experimental-soft-navs) [web.dev]
 - ⚡ [Unload event deprecated in Chrome](https://developer.chrome.com/blog/unload-deprecated-in-chrome) [chrome]
 - ⚡ [JPEG XL vs AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) [jakearchibald]
+
+## Week 43
+- ⚡ [Today's PHP Security Release](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) [thephp]
+- ⚡ [Shopify Checkout Hijack Attack](https://romanzipp.com/blog/shopify-hit-with-phishing-attack) [romanzipp]
+- ⚡ [AI, make the website good](https://www.zachleat.com/web/ai-websites/) [zachleat]
+- ⚡ [What’s new in the W3C Website Design System](https://www.w3.org/blog/2026/whats-new-in-the-w3c-design-system-september-2026/) [w3.org]
