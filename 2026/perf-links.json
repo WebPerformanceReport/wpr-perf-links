@@ -948,24 +948,46 @@
         ],
         "44": [
             {
-                "title": "Today's PHP Security Release",
-                "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-                "domain": "thephp"
+                "title": "Design Systems Should Be Fast by Default",
+                "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+                "domain": "denodell"
             },
             {
-                "title": "Shopify Checkout Hijack Attack",
-                "url": "https://romanzipp.com/blog/shopify-hit-with-phishing-attack",
-                "domain": "romanzipp"
+                "title": "Scroll-Driven Animations Baseline Available",
+                "url": "https://scroll-driven-animations.style/demos/baseline-newly-available/css/",
+                "domain": "scroll-driven-animations"
             },
             {
-                "title": "AI, make the website good",
-                "url": "https://www.zachleat.com/web/ai-websites/",
-                "domain": "zachleat"
+                "title": "How to Convince People to Care and Invest in Accessibility",
+                "url": "https://a11ytalks.com/posts/2026-oct",
+                "domain": "a11ytalks"
             },
             {
-                "title": "What’s new in the W3C Website Design System",
-                "url": "https://www.w3.org/blog/2026/whats-new-in-the-w3c-design-system-september-2026/",
-                "domain": "w3.org"
+                "title": "The Future of Google Chrome",
+                "url": "https://www.youtube.com/watch?v=U27l2u6P4qw",
+                "domain": "youtube"
+            }
+        ],
+        "45": [
+            {
+                "title": "Design Systems Should Be Fast by Default",
+                "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+                "domain": "denodell"
+            },
+            {
+                "title": "Scroll-Driven Animations Baseline Available",
+                "url": "https://scroll-driven-animations.style/demos/baseline-newly-available/css/",
+                "domain": "scroll-driven-animations"
+            },
+            {
+                "title": "How to Convince People to Care and Invest in Accessibility",
+                "url": "https://a11ytalks.com/posts/2026-oct",
+                "domain": "a11ytalks"
+            },
+            {
+                "title": "The Future of Google Chrome",
+                "url": "https://www.youtube.com/watch?v=U27l2u6P4qw",
+                "domain": "youtube"
             }
         ]
     }

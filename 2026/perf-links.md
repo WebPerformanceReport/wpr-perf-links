@@ -262,3 +262,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Shopify Checkout Hijack Attack](https://romanzipp.com/blog/shopify-hit-with-phishing-attack) [romanzipp]
 - ⚡ [AI, make the website good](https://www.zachleat.com/web/ai-websites/) [zachleat]
 - ⚡ [What’s new in the W3C Website Design System](https://www.w3.org/blog/2026/whats-new-in-the-w3c-design-system-september-2026/) [w3.org]
+
+## Week 44
+- ⚡ [Design Systems Should Be Fast by Default](https://denodell.com/blog/design-systems-should-be-fast-by-default) [denodell]
+- ⚡ [Scroll-Driven Animations Baseline Available](https://scroll-driven-animations.style/demos/baseline-newly-available/css/) [scroll-driven-animations]
+- ⚡ [How to Convince People to Care and Invest in Accessibility](https://a11ytalks.com/posts/2026-oct) [a11ytalks]
+- ⚡ [The Future of Google Chrome](https://www.youtube.com/watch?v=U27l2u6P4qw) [youtube]
