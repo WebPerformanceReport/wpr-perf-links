@@ -268,3 +268,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [Scroll-Driven Animations Baseline Available](https://scroll-driven-animations.style/demos/baseline-newly-available/css/) [scroll-driven-animations]
 - ⚡ [How to Convince People to Care and Invest in Accessibility](https://a11ytalks.com/posts/2026-oct) [a11ytalks]
 - ⚡ [The Future of Google Chrome](https://www.youtube.com/watch?v=U27l2u6P4qw) [youtube]
+
+## Week 45
+- ⚡ [Polymarket's CSP Failure](https://blog.report-uri.com/polymarkets-csp-allowed-every-part-of-the-2-6-million-crypto-theft/) [report-uri]
+- ⚡ [E-commerce conversions and accessibility barriers](https://www.youtube.com/watch?v=SiVVUgrw1fQ) [youtube]
+- ⚡ [The Web We Know Is Going to Disappear](https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear) [minid]
+- ⚡ [Lighthouse v13.6.0 out](https://github.com/GoogleChrome/lighthouse/releases) [github]

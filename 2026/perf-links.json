@@ -970,24 +970,46 @@
         ],
         "45": [
             {
-                "title": "Design Systems Should Be Fast by Default",
-                "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
-                "domain": "denodell"
+                "title": "Polymarket's CSP Failure",
+                "url": "https://blog.report-uri.com/polymarkets-csp-allowed-every-part-of-the-2-6-million-crypto-theft/",
+                "domain": "report-uri"
             },
             {
-                "title": "Scroll-Driven Animations Baseline Available",
-                "url": "https://scroll-driven-animations.style/demos/baseline-newly-available/css/",
-                "domain": "scroll-driven-animations"
-            },
-            {
-                "title": "How to Convince People to Care and Invest in Accessibility",
-                "url": "https://a11ytalks.com/posts/2026-oct",
-                "domain": "a11ytalks"
-            },
-            {
-                "title": "The Future of Google Chrome",
-                "url": "https://www.youtube.com/watch?v=U27l2u6P4qw",
+                "title": "E-commerce conversions and accessibility barriers",
+                "url": "https://www.youtube.com/watch?v=SiVVUgrw1fQ",
                 "domain": "youtube"
+            },
+            {
+                "title": "The Web We Know Is Going to Disappear",
+                "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
+                "domain": "minid"
+            },
+            {
+                "title": "Lighthouse v13.6.0 out",
+                "url": "https://github.com/GoogleChrome/lighthouse/releases",
+                "domain": "github"
+            }
+        ],
+        "46": [
+            {
+                "title": "Polymarket's CSP Failure",
+                "url": "https://blog.report-uri.com/polymarkets-csp-allowed-every-part-of-the-2-6-million-crypto-theft/",
+                "domain": "report-uri"
+            },
+            {
+                "title": "E-commerce conversions and accessibility barriers",
+                "url": "https://www.youtube.com/watch?v=SiVVUgrw1fQ",
+                "domain": "youtube"
+            },
+            {
+                "title": "The Web We Know Is Going to Disappear",
+                "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
+                "domain": "minid"
+            },
+            {
+                "title": "Lighthouse v13.6.0 out",
+                "url": "https://github.com/GoogleChrome/lighthouse/releases",
+                "domain": "github"
             }
         ]
     }
