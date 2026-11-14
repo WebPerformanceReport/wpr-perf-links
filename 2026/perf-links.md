@@ -274,3 +274,9 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [E-commerce conversions and accessibility barriers](https://www.youtube.com/watch?v=SiVVUgrw1fQ) [youtube]
 - ⚡ [The Web We Know Is Going to Disappear](https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear) [minid]
 - ⚡ [Lighthouse v13.6.0 out](https://github.com/GoogleChrome/lighthouse/releases) [github]
+
+## Week 46
+- ⚡ [Local vector search for coding agents](https://developer.chrome.com/blog/mwg-technical-deep-dive) [chrome]
+- ⚡ [A critical flaw in Apache HTTP Server's HTTP/2 module](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html) [thehackernews]
+- ⚡ [Technical Leads Behind Modern Web Guidance 1.0](https://www.linkedin.com/pulse/meet-authors-technical-leads-behind-modern-web-guidance-voyme/) [linkedin]
+- ⚡ [Welcome to the official Google Accessibility page](https://www.linkedin.com/showcase/google-accessibility/) [linkedin]

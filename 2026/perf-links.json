@@ -992,24 +992,46 @@
         ],
         "46": [
             {
-                "title": "Polymarket's CSP Failure",
-                "url": "https://blog.report-uri.com/polymarkets-csp-allowed-every-part-of-the-2-6-million-crypto-theft/",
-                "domain": "report-uri"
+                "title": "Local vector search for coding agents",
+                "url": "https://developer.chrome.com/blog/mwg-technical-deep-dive",
+                "domain": "chrome"
             },
             {
-                "title": "E-commerce conversions and accessibility barriers",
-                "url": "https://www.youtube.com/watch?v=SiVVUgrw1fQ",
-                "domain": "youtube"
+                "title": "A critical flaw in Apache HTTP Server's HTTP/2 module",
+                "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+                "domain": "thehackernews"
             },
             {
-                "title": "The Web We Know Is Going to Disappear",
-                "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
-                "domain": "minid"
+                "title": "Technical Leads Behind Modern Web Guidance 1.0",
+                "url": "https://www.linkedin.com/pulse/meet-authors-technical-leads-behind-modern-web-guidance-voyme/",
+                "domain": "linkedin"
             },
             {
-                "title": "Lighthouse v13.6.0 out",
-                "url": "https://github.com/GoogleChrome/lighthouse/releases",
-                "domain": "github"
+                "title": "Welcome to the official Google Accessibility page",
+                "url": "https://www.linkedin.com/showcase/google-accessibility/",
+                "domain": "linkedin"
+            }
+        ],
+        "47": [
+            {
+                "title": "Local vector search for coding agents",
+                "url": "https://developer.chrome.com/blog/mwg-technical-deep-dive",
+                "domain": "chrome"
+            },
+            {
+                "title": "A critical flaw in Apache HTTP Server's HTTP/2 module",
+                "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+                "domain": "thehackernews"
+            },
+            {
+                "title": "Technical Leads Behind Modern Web Guidance 1.0",
+                "url": "https://www.linkedin.com/pulse/meet-authors-technical-leads-behind-modern-web-guidance-voyme/",
+                "domain": "linkedin"
+            },
+            {
+                "title": "Welcome to the official Google Accessibility page",
+                "url": "https://www.linkedin.com/showcase/google-accessibility/",
+                "domain": "linkedin"
             }
         ]
     }
