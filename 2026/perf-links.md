@@ -280,3 +280,11 @@ Each entry highlights relevant articles, tools, case studies, and talks from tru
 - ⚡ [A critical flaw in Apache HTTP Server's HTTP/2 module](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html) [thehackernews]
 - ⚡ [Technical Leads Behind Modern Web Guidance 1.0](https://www.linkedin.com/pulse/meet-authors-technical-leads-behind-modern-web-guidance-voyme/) [linkedin]
 - ⚡ [Welcome to the official Google Accessibility page](https://www.linkedin.com/showcase/google-accessibility/) [linkedin]
+
+## Week 47
+- ⚡ [Is Zalando ready for Black Friday?](https://claude.ai/artifact/3JubsrsfphPTUv86UvbjSJ) [claude]
+- ⚡ [Is IKEA ready for Black Friday?](https://claude.ai/artifact/PZaGQJPUbzuKNiy1jRnPN1) [claude]
+- ⚡ [Is Walmart ready for Black Friday?](https://claude.ai/artifact/YY124hXPhDedJqNUFMp1m7) [claude]
+- ⚡ [Is Target ready for Black Friday?](https://claude.ai/artifact/AwbApKtDNqgZMzYuFBB61j) [claude]
+- ⚡ [Is Costco ready for Black Friday?](https://claude.ai/artifact/4T3REyznSH4t4QEt4g9frd) [claude]
+- ⚡ [Is SHEIN ready for Black Friday?](https://claude.ai/artifact/G7DCxtojTz7W211NF5Vzu5) [claude]
